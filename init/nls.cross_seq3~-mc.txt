@@ -1,0 +1,1 @@
+max objectfile mc.nls.cross_seq3~ mc.wrapper~ nls.cross_seq3~;

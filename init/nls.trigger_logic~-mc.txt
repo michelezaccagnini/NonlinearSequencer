@@ -1,0 +1,1 @@
+max objectfile mc.nls.trigger_logic~ mc.wrapper~ nls.trigger_logic~;

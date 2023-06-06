@@ -1,0 +1,499 @@
+{
+	"pattrstorage" : 	{
+		"name" : "cross3_help",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"mc.live.gain~" : [ 0.0 ],
+					"number" : [ 200 ],
+					"crossSeq3~[1]::ampl1" : [ 1.0 ],
+					"crossSeq3~[1]::ampl2" : [ 0.29 ],
+					"crossSeq3~[1]::ampl3" : [ 0.45 ],
+					"crossSeq3~[1]::button" : [ 0.0 ],
+					"crossSeq3~[1]::lfo1rate" : [ 1.0 ],
+					"crossSeq3~[1]::lfo2rate" : [ 2.0 ],
+					"crossSeq3~[1]::lfo3rate" : [ 1.5 ],
+					"crossSeq3~[1]::live.button" : [ 0.0 ],
+					"crossSeq3~[1]::live.button[1]" : [ 0.0 ],
+					"crossSeq3~[1]::live.button[2]" : [ 0.0 ],
+					"crossSeq3~[1]::live.menu[3]" : [ 0.0 ],
+					"crossSeq3~[1]::mainFreq" : [ 2.0 ],
+					"crossSeq3~[1]::nls.cross_seq3~" : [ 						{
+							"ph3" : 							{
+								"value" : 0.0
+							}
+,
+							"__presetid" : "rnbo",
+							"rt2" : 							{
+								"value" : 2.0
+							}
+,
+							"am1" : 							{
+								"value" : 1.0
+							}
+,
+							"w3" : 							{
+								"value" : 3.0
+							}
+,
+							"pw1" : 							{
+								"value" : 0.5
+							}
+,
+							"w2" : 							{
+								"value" : 3.0
+							}
+,
+							"freq" : 							{
+								"value" : 2.000001
+							}
+,
+							"rt1" : 							{
+								"value" : 1.0
+							}
+,
+							"am2" : 							{
+								"value" : 0.29
+							}
+,
+							"am3" : 							{
+								"value" : 0.45
+							}
+,
+							"ph1" : 							{
+								"value" : 0.0
+							}
+,
+							"rt3" : 							{
+								"value" : 1.5
+							}
+,
+							"w1" : 							{
+								"value" : 3.0
+							}
+,
+							"ph2" : 							{
+								"value" : 0.0
+							}
+,
+							"pw2" : 							{
+								"value" : 0.5
+							}
+,
+							"pw3" : 							{
+								"value" : 0.5
+							}
+
+						}
+ ],
+					"crossSeq3~[1]::phase1" : [ 0.0 ],
+					"crossSeq3~[1]::phase2" : [ 0.0 ],
+					"crossSeq3~[1]::phase3" : [ 0.0 ],
+					"crossSeq3~[1]::pw1" : [ 0.5 ],
+					"crossSeq3~[1]::pw2" : [ 0.5 ],
+					"crossSeq3~[1]::pw3" : [ 0.5 ],
+					"crossSeq3~[1]::wave1" : [ 3.0 ],
+					"crossSeq3~[1]::wave2" : [ 0.0 ],
+					"crossSeq3~[1]::wave3" : [ 0.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"mc.live.gain~" : [ 0.0 ],
+					"number" : [ 200 ],
+					"crossSeq3~[1]::ampl1" : [ 1.0 ],
+					"crossSeq3~[1]::ampl2" : [ 0.29 ],
+					"crossSeq3~[1]::ampl3" : [ 0.45 ],
+					"crossSeq3~[1]::button" : [ 0.0 ],
+					"crossSeq3~[1]::lfo1rate" : [ 1.0 ],
+					"crossSeq3~[1]::lfo2rate" : [ 1.7 ],
+					"crossSeq3~[1]::lfo3rate" : [ 1.5 ],
+					"crossSeq3~[1]::live.button" : [ 0.0 ],
+					"crossSeq3~[1]::live.button[1]" : [ 0.0 ],
+					"crossSeq3~[1]::live.button[2]" : [ 0.0 ],
+					"crossSeq3~[1]::live.menu[3]" : [ 0.0 ],
+					"crossSeq3~[1]::mainFreq" : [ 2.0 ],
+					"crossSeq3~[1]::nls.cross_seq3~" : [ 						{
+							"ph3" : 							{
+								"value" : 0.0
+							}
+,
+							"__presetid" : "rnbo",
+							"rt2" : 							{
+								"value" : 2.0
+							}
+,
+							"am1" : 							{
+								"value" : 1.0
+							}
+,
+							"w3" : 							{
+								"value" : 3.0
+							}
+,
+							"pw1" : 							{
+								"value" : 0.5
+							}
+,
+							"w2" : 							{
+								"value" : 3.0
+							}
+,
+							"freq" : 							{
+								"value" : 2.000001
+							}
+,
+							"rt1" : 							{
+								"value" : 1.0
+							}
+,
+							"am2" : 							{
+								"value" : 0.29
+							}
+,
+							"am3" : 							{
+								"value" : 0.45
+							}
+,
+							"ph1" : 							{
+								"value" : 0.0
+							}
+,
+							"rt3" : 							{
+								"value" : 1.5
+							}
+,
+							"w1" : 							{
+								"value" : 3.0
+							}
+,
+							"ph2" : 							{
+								"value" : 0.0
+							}
+,
+							"pw2" : 							{
+								"value" : 0.5
+							}
+,
+							"pw3" : 							{
+								"value" : 0.5
+							}
+
+						}
+ ],
+					"crossSeq3~[1]::phase1" : [ 0.0 ],
+					"crossSeq3~[1]::phase2" : [ 0.0 ],
+					"crossSeq3~[1]::phase3" : [ 0.0 ],
+					"crossSeq3~[1]::pw1" : [ 0.5 ],
+					"crossSeq3~[1]::pw2" : [ 0.5 ],
+					"crossSeq3~[1]::pw3" : [ 0.5 ],
+					"crossSeq3~[1]::wave1" : [ 3.0 ],
+					"crossSeq3~[1]::wave2" : [ 0.0 ],
+					"crossSeq3~[1]::wave3" : [ 0.0 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"mc.live.gain~" : [ 0.0 ],
+					"number" : [ 200 ],
+					"crossSeq3~[1]::ampl1" : [ 1.0 ],
+					"crossSeq3~[1]::ampl2" : [ 0.29 ],
+					"crossSeq3~[1]::ampl3" : [ 0.45 ],
+					"crossSeq3~[1]::button" : [ 0.0 ],
+					"crossSeq3~[1]::lfo1rate" : [ 1.0 ],
+					"crossSeq3~[1]::lfo2rate" : [ 2.0 ],
+					"crossSeq3~[1]::lfo3rate" : [ 1.5 ],
+					"crossSeq3~[1]::live.button" : [ 0.0 ],
+					"crossSeq3~[1]::live.button[1]" : [ 0.0 ],
+					"crossSeq3~[1]::live.button[2]" : [ 0.0 ],
+					"crossSeq3~[1]::live.menu[3]" : [ 0.0 ],
+					"crossSeq3~[1]::mainFreq" : [ 2.0 ],
+					"crossSeq3~[1]::nls.cross_seq3~" : [ 						{
+							"ph3" : 							{
+								"value" : 0.0
+							}
+,
+							"__presetid" : "rnbo",
+							"rt2" : 							{
+								"value" : 2.0
+							}
+,
+							"am1" : 							{
+								"value" : 1.0
+							}
+,
+							"w3" : 							{
+								"value" : 3.0
+							}
+,
+							"pw1" : 							{
+								"value" : 0.5
+							}
+,
+							"w2" : 							{
+								"value" : 3.0
+							}
+,
+							"freq" : 							{
+								"value" : 2.000001
+							}
+,
+							"rt1" : 							{
+								"value" : 1.0
+							}
+,
+							"am2" : 							{
+								"value" : 0.29
+							}
+,
+							"am3" : 							{
+								"value" : 0.45
+							}
+,
+							"ph1" : 							{
+								"value" : 0.0
+							}
+,
+							"rt3" : 							{
+								"value" : 1.5
+							}
+,
+							"w1" : 							{
+								"value" : 3.0
+							}
+,
+							"ph2" : 							{
+								"value" : 0.0
+							}
+,
+							"pw2" : 							{
+								"value" : 0.5
+							}
+,
+							"pw3" : 							{
+								"value" : 0.5
+							}
+
+						}
+ ],
+					"crossSeq3~[1]::phase1" : [ 0.0 ],
+					"crossSeq3~[1]::phase2" : [ 0.0 ],
+					"crossSeq3~[1]::phase3" : [ 0.0 ],
+					"crossSeq3~[1]::pw1" : [ 0.5 ],
+					"crossSeq3~[1]::pw2" : [ 0.5 ],
+					"crossSeq3~[1]::pw3" : [ 0.5 ],
+					"crossSeq3~[1]::wave1" : [ 0.0 ],
+					"crossSeq3~[1]::wave2" : [ 0.0 ],
+					"crossSeq3~[1]::wave3" : [ 0.0 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"mc.live.gain~" : [ 0.0 ],
+					"number" : [ 168 ],
+					"crossSeq3~[1]::ampl1" : [ 1.0 ],
+					"crossSeq3~[1]::ampl2" : [ 0.8 ],
+					"crossSeq3~[1]::ampl3" : [ 0.4 ],
+					"crossSeq3~[1]::button" : [ 0.0 ],
+					"crossSeq3~[1]::lfo1rate" : [ 1.0 ],
+					"crossSeq3~[1]::lfo2rate" : [ 1.7 ],
+					"crossSeq3~[1]::lfo3rate" : [ 1.5 ],
+					"crossSeq3~[1]::live.button" : [ 0.0 ],
+					"crossSeq3~[1]::live.button[1]" : [ 0.0 ],
+					"crossSeq3~[1]::live.button[2]" : [ 0.0 ],
+					"crossSeq3~[1]::live.menu[3]" : [ 0.0 ],
+					"crossSeq3~[1]::mainFreq" : [ 2.0 ],
+					"crossSeq3~[1]::nls.cross_seq3~" : [ 						{
+							"ph3" : 							{
+								"value" : 0.0
+							}
+,
+							"__presetid" : "rnbo",
+							"rt2" : 							{
+								"value" : 2.0
+							}
+,
+							"am1" : 							{
+								"value" : 1.0
+							}
+,
+							"w3" : 							{
+								"value" : 3.0
+							}
+,
+							"pw1" : 							{
+								"value" : 0.5
+							}
+,
+							"w2" : 							{
+								"value" : 3.0
+							}
+,
+							"freq" : 							{
+								"value" : 2.000001
+							}
+,
+							"rt1" : 							{
+								"value" : 1.0
+							}
+,
+							"am2" : 							{
+								"value" : 0.29
+							}
+,
+							"am3" : 							{
+								"value" : 0.45
+							}
+,
+							"ph1" : 							{
+								"value" : 0.0
+							}
+,
+							"rt3" : 							{
+								"value" : 1.5
+							}
+,
+							"w1" : 							{
+								"value" : 3.0
+							}
+,
+							"ph2" : 							{
+								"value" : 0.0
+							}
+,
+							"pw2" : 							{
+								"value" : 0.5
+							}
+,
+							"pw3" : 							{
+								"value" : 0.5
+							}
+
+						}
+ ],
+					"crossSeq3~[1]::phase1" : [ 0.0 ],
+					"crossSeq3~[1]::phase2" : [ 0.0 ],
+					"crossSeq3~[1]::phase3" : [ 0.0 ],
+					"crossSeq3~[1]::pw1" : [ 0.5 ],
+					"crossSeq3~[1]::pw2" : [ 0.5 ],
+					"crossSeq3~[1]::pw3" : [ 0.5 ],
+					"crossSeq3~[1]::wave1" : [ 0.0 ],
+					"crossSeq3~[1]::wave2" : [ 1.0 ],
+					"crossSeq3~[1]::wave3" : [ 0.0 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"data" : 				{
+					"mc.live.gain~" : [ 0.0 ],
+					"number" : [ 168 ],
+					"crossSeq3~[1]::ampl1" : [ 1.0 ],
+					"crossSeq3~[1]::ampl2" : [ 0.29 ],
+					"crossSeq3~[1]::ampl3" : [ 0.45 ],
+					"crossSeq3~[1]::button" : [ 0.0 ],
+					"crossSeq3~[1]::lfo1rate" : [ 1.0 ],
+					"crossSeq3~[1]::lfo2rate" : [ 2.0 ],
+					"crossSeq3~[1]::lfo3rate" : [ 1.5 ],
+					"crossSeq3~[1]::live.button" : [ 0.0 ],
+					"crossSeq3~[1]::live.button[1]" : [ 0.0 ],
+					"crossSeq3~[1]::live.button[2]" : [ 0.0 ],
+					"crossSeq3~[1]::live.menu[3]" : [ 0.0 ],
+					"crossSeq3~[1]::mainFreq" : [ 2.0 ],
+					"crossSeq3~[1]::nls.cross_seq3~" : [ 						{
+							"ph3" : 							{
+								"value" : 0.0
+							}
+,
+							"__presetid" : "rnbo",
+							"rt2" : 							{
+								"value" : 2.0
+							}
+,
+							"am1" : 							{
+								"value" : 1.0
+							}
+,
+							"w3" : 							{
+								"value" : 3.0
+							}
+,
+							"pw1" : 							{
+								"value" : 0.5
+							}
+,
+							"w2" : 							{
+								"value" : 3.0
+							}
+,
+							"freq" : 							{
+								"value" : 2.000001
+							}
+,
+							"rt1" : 							{
+								"value" : 1.0
+							}
+,
+							"am2" : 							{
+								"value" : 0.29
+							}
+,
+							"am3" : 							{
+								"value" : 0.45
+							}
+,
+							"ph1" : 							{
+								"value" : 0.0
+							}
+,
+							"rt3" : 							{
+								"value" : 1.5
+							}
+,
+							"w1" : 							{
+								"value" : 3.0
+							}
+,
+							"ph2" : 							{
+								"value" : 0.0
+							}
+,
+							"pw2" : 							{
+								"value" : 0.5
+							}
+,
+							"pw3" : 							{
+								"value" : 0.5
+							}
+
+						}
+ ],
+					"crossSeq3~[1]::phase1" : [ 0.0 ],
+					"crossSeq3~[1]::phase2" : [ 0.0 ],
+					"crossSeq3~[1]::phase3" : [ 0.0 ],
+					"crossSeq3~[1]::pw1" : [ 0.5 ],
+					"crossSeq3~[1]::pw2" : [ 0.5 ],
+					"crossSeq3~[1]::pw3" : [ 0.5 ],
+					"crossSeq3~[1]::wave1" : [ 3.0 ],
+					"crossSeq3~[1]::wave2" : [ 0.0 ],
+					"crossSeq3~[1]::wave3" : [ 1.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

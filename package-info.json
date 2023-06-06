@@ -1,0 +1,44 @@
+{
+	"name" : "Nonlinear Sequencer",
+	"displayname" : "",
+	"version" : "1.0.1",
+	"author" : "Michele Zaccagnini",
+	"authors" : [  ],
+	"description" : "Create sequencer frequency oscillations around a fixed frequency. The overall robustness and sample accuracy of the sequencer is left intact while the sequencer is allowed a locally irregular behavior.",
+	"tags" : [ "sequencer", "rhythmic", "algorithmic", "composition", "generation" ],
+	"website" : "https://michelezaccagnini.blog/",
+	"extends" : "",
+	"extensible" : 0,
+	"max_version_min" : "7.1",
+	"max_version_max" : "none",
+	"os" : 	{
+		"macintosh" : 		{
+			"min_version" : "none",
+			"platform" : [ "ia32", "x64" ]
+		}
+,
+		"windows" : 		{
+			"min_version" : "none",
+			"platform" : [ "ia32", "x64" ]
+		}
+
+	}
+,
+	"homepatcher" : "NLS-launch.maxpat",
+	"package_extra" : 	{
+		"reverse_domain" : "com.cycling74",
+		"copyright" : "Copyright (c) 2020 Michele Zaccagnini"
+	}
+,
+	"filelist" : 	{
+		"externals" : [ "mic.ar~.maxpat", "mic.beat_distance~.maxpat", "mic.beat_fluctuate.maxpat", "mic.beat_makeup.maxpat", "mic.distance_from_pulse~.maxpat", "mic.fluctuate_phasor~.maxpat", "mic.regular_triggers~.maxpat", "mic.running_scale~.maxpat", "mic.timer.maxpat", "mic.trigger_counter~.maxpat", "patreon_launch.maxpat", "poly_fluctuate.maxpat", "simple_envelopes.maxpat" ],
+		"patchers" : [ "Example Navigator.maxpat", "expressive rhythmic mapping.maxpat", "fluctuating phasor.maxpat", "machine learn scaling.maxpat", "measuring fluctuations.maxpat", "measuring regularity.maxpat", "regular sequence.maxpat", "regular vs irregular accents.maxpat", "simple envelopes.maxpat", "syncing modes.maxpat" ],
+		"help" : [ "mic.ar~.maxhelp", "mic.distance_from_pulse~.maxhelp", "mic.fluctuate_phasor~.maxhelp", "mic.regular_triggers~.maxhelp", "mic.running_scale~.maxhelp", "mic.trigger_counter~.maxhelp" ],
+		"docs" : [ "Nonlinear_Sequencing.pdf" ],
+		"code" : [ "beat_distance.gendsp", "distanceFromPulse.gendsp", "envelope2.gendsp", "non_lin_phas.gendsp", "peakStretch.gendsp", "phasor_edge.gendsp", "sig_maximum~.gendsp", "sig_minimum~.gendsp", "sin_distort.gendsp", "trig2env.gendsp", "trigger_count.gendsp" ],
+		"extras" : [ "NLS-launch.maxpat" ]
+	}
+,
+	"c74install" : 1,
+	"installdate" : 3697207196
+}
