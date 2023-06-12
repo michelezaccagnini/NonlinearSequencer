@@ -1062,11 +1062,11 @@
 													"box" : 													{
 														"maxclass" : "newobj",
 														"text" : "< 0",
-														"numinlets" : 1,
 														"numoutlets" : 1,
 														"outlettype" : [ "" ],
 														"id" : "obj-5",
-														"patching_rect" : [ 176.0, 198.0, 26.0, 22.0 ]
+														"patching_rect" : [ 176.0, 198.0, 26.0, 22.0 ],
+														"numinlets" : 1
 													}
 
 												}
@@ -1074,11 +1074,11 @@
 													"box" : 													{
 														"maxclass" : "newobj",
 														"text" : "in 1",
-														"numinlets" : 0,
 														"numoutlets" : 1,
 														"outlettype" : [ "" ],
 														"id" : "obj-1",
-														"patching_rect" : [ 50.0, 14.0, 28.0, 22.0 ]
+														"patching_rect" : [ 50.0, 14.0, 28.0, 22.0 ],
+														"numinlets" : 0
 													}
 
 												}
@@ -1086,11 +1086,11 @@
 													"box" : 													{
 														"maxclass" : "newobj",
 														"text" : "delta",
-														"numinlets" : 1,
 														"numoutlets" : 1,
 														"outlettype" : [ "" ],
 														"id" : "obj-3",
-														"patching_rect" : [ 176.0, 149.0, 35.0, 22.0 ]
+														"patching_rect" : [ 176.0, 149.0, 35.0, 22.0 ],
+														"numinlets" : 1
 													}
 
 												}
@@ -1098,18 +1098,18 @@
 													"box" : 													{
 														"maxclass" : "newobj",
 														"text" : "out 1",
-														"numinlets" : 1,
 														"numoutlets" : 0,
 														"id" : "obj-4",
-														"patching_rect" : [ 176.0, 418.0, 35.0, 22.0 ]
+														"patching_rect" : [ 176.0, 418.0, 35.0, 22.0 ],
+														"numinlets" : 1
 													}
 
 												}
  ],
 											"lines" : [ 												{
 													"patchline" : 													{
-														"source" : [ "obj-5", 0 ],
-														"destination" : [ "obj-4", 0 ]
+														"source" : [ "obj-1", 0 ],
+														"destination" : [ "obj-3", 0 ]
 													}
 
 												}
@@ -1122,8 +1122,8 @@
 												}
 , 												{
 													"patchline" : 													{
-														"source" : [ "obj-1", 0 ],
-														"destination" : [ "obj-3", 0 ]
+														"source" : [ "obj-5", 0 ],
+														"destination" : [ "obj-4", 0 ]
 													}
 
 												}
@@ -1139,7 +1139,7 @@
 									"outlettype" : [ "multichannelsignal" ],
 									"patching_rect" : [ 53.0, 115.0, 55.0, 22.0 ],
 									"text" : "mc.gen~",
-									"wrapper_uniquekey" : "u071000652"
+									"wrapper_uniquekey" : "u403000683"
 								}
 
 							}
@@ -2361,21 +2361,35 @@
 		"dependency_cache" : [ 			{
 				"name" : "mic.timer.maxpat",
 				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/mic_externals/mic_utilities",
-				"patcherrelativepath" : "../../mic_externals/mic_utilities",
+				"patcherrelativepath" : "../../../Max 8/Packages/mic_externals/mic_utilities",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "nls.beat_fluctuate.maxpat",
+				"bootpath" : "~/OneDrive/Documents/GitHub/NonlinearSequencer/externals",
+				"patcherrelativepath" : "../externals",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "nls.beat_makeup.maxpat",
+				"bootpath" : "~/OneDrive/Documents/GitHub/NonlinearSequencer/externals",
+				"patcherrelativepath" : "../externals",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "nls.fluctuate_phasor~.maxpat",
 				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/Nonlinear Sequencer2.0/externals",
-				"patcherrelativepath" : "../externals",
+				"patcherrelativepath" : "../../../Max 8/Packages/Nonlinear Sequencer2.0/externals",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "phasor_edge.gendsp",
 				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/Nonlinear Sequencer2.0/code",
-				"patcherrelativepath" : "../code",
+				"patcherrelativepath" : "../../../Max 8/Packages/Nonlinear Sequencer2.0/code",
 				"type" : "gDSP",
 				"implicit" : 1
 			}
