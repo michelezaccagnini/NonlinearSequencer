@@ -2552,8 +2552,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 93.0, 302.5, 122.0, 22.0 ],
-					"text" : "mic.regular_triggers~"
+					"patching_rect" : [ 93.0, 302.5, 118.0, 22.0 ],
+					"text" : "nls.regular_triggers~"
 				}
 
 			}
@@ -3381,92 +3381,92 @@
 ,
 		"dependency_cache" : [ 			{
 				"name" : "distanceFromPulse.gendsp",
-				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/Nonlinear Sequencer/code",
-				"patcherrelativepath" : "../../../Documents/Max 8/Packages/Nonlinear Sequencer/code",
+				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/Nonlinear Sequencer2.0/code",
+				"patcherrelativepath" : "../../../Max 8/Packages/Nonlinear Sequencer2.0/code",
 				"type" : "gDSP",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "mic.beat_fluctuate.maxpat",
-				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/Nonlinear Sequencer/externals",
-				"patcherrelativepath" : "../../../Documents/Max 8/Packages/Nonlinear Sequencer/externals",
+				"name" : "nls.beat_fluctuate.maxpat",
+				"bootpath" : "~/OneDrive/Documents/GitHub/NonlinearSequencer/externals",
+				"patcherrelativepath" : "../externals",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "mic.beat_makeup.maxpat",
-				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/Nonlinear Sequencer/externals",
-				"patcherrelativepath" : "../../../Documents/Max 8/Packages/Nonlinear Sequencer/externals",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "mic.regular_triggers~.maxpat",
-				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/Nonlinear Sequencer/externals",
-				"patcherrelativepath" : "../../../Documents/Max 8/Packages/Nonlinear Sequencer/externals",
+				"name" : "nls.beat_makeup.maxpat",
+				"bootpath" : "~/OneDrive/Documents/GitHub/NonlinearSequencer/externals",
+				"patcherrelativepath" : "../externals",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "nls.distance_from_pulse~.maxpat",
-				"bootpath" : "~/OneDrive/Desktop/NLS2/NLS objects",
-				"patcherrelativepath" : ".",
+				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/Nonlinear Sequencer2.0/externals",
+				"patcherrelativepath" : "../../../Max 8/Packages/Nonlinear Sequencer2.0/externals",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "nls.fluctuate_phasor~.maxpat",
-				"bootpath" : "~/OneDrive/Desktop/NLS2/NLS objects",
-				"patcherrelativepath" : ".",
+				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/Nonlinear Sequencer2.0/externals",
+				"patcherrelativepath" : "../../../Max 8/Packages/Nonlinear Sequencer2.0/externals",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "nls.regular_triggers~.maxpat",
+				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/Nonlinear Sequencer2.0/externals",
+				"patcherrelativepath" : "../../../Max 8/Packages/Nonlinear Sequencer2.0/externals",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "nls.running_scale~.maxpat",
-				"bootpath" : "~/OneDrive/Desktop/NLS2/NLS objects",
-				"patcherrelativepath" : ".",
+				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/Nonlinear Sequencer2.0/externals",
+				"patcherrelativepath" : "../../../Max 8/Packages/Nonlinear Sequencer2.0/externals",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "pan2S.maxpat",
 				"bootpath" : "~/AppData/Roaming/Cycling '74/Max 8/examples/spatialization/panning/lib",
-				"patcherrelativepath" : "../../../../AppData/Roaming/Cycling '74/Max 8/examples/spatialization/panning/lib",
+				"patcherrelativepath" : "../../../../../AppData/Roaming/Cycling '74/Max 8/examples/spatialization/panning/lib",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "peakStretch.gendsp",
 				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/mic_externals/mic_gen",
-				"patcherrelativepath" : "../../../Documents/Max 8/Packages/mic_externals/mic_gen",
+				"patcherrelativepath" : "../../../Max 8/Packages/mic_externals/mic_gen",
 				"type" : "gDSP",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "sig_maximum~.gendsp",
-				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/Nonlinear Sequencer/code",
-				"patcherrelativepath" : "../../../Documents/Max 8/Packages/Nonlinear Sequencer/code",
+				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/Nonlinear Sequencer2.0/code",
+				"patcherrelativepath" : "../../../Max 8/Packages/Nonlinear Sequencer2.0/code",
 				"type" : "gDSP",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "sig_minimum~.gendsp",
-				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/Nonlinear Sequencer/code",
-				"patcherrelativepath" : "../../../Documents/Max 8/Packages/Nonlinear Sequencer/code",
+				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/Nonlinear Sequencer2.0/code",
+				"patcherrelativepath" : "../../../Max 8/Packages/Nonlinear Sequencer2.0/code",
 				"type" : "gDSP",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "simple_envelopes.maxpat",
-				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/Nonlinear Sequencer/externals",
-				"patcherrelativepath" : "../../../Documents/Max 8/Packages/Nonlinear Sequencer/externals",
+				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/Nonlinear Sequencer2.0/externals",
+				"patcherrelativepath" : "../../../Max 8/Packages/Nonlinear Sequencer2.0/externals",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "trig2env.gendsp",
-				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/Nonlinear Sequencer/code",
-				"patcherrelativepath" : "../../../Documents/Max 8/Packages/Nonlinear Sequencer/code",
+				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/Nonlinear Sequencer2.0/code",
+				"patcherrelativepath" : "../../../Max 8/Packages/Nonlinear Sequencer2.0/code",
 				"type" : "gDSP",
 				"implicit" : 1
 			}

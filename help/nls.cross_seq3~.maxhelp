@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 42.0, 85.0, 719.0, 644.0 ],
+		"rect" : [ 1778.0, 228.0, 719.0, 644.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -920,7 +920,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 42.0, 111.0, 719.0, 618.0 ],
+						"rect" : [ 1778.0, 254.0, 719.0, 618.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -1185,7 +1185,7 @@
 									"patching_rect" : [ 529.0, 477.50861382484436, 135.0, 22.0 ],
 									"restore" : 									{
 										"button" : [ 0.0 ],
-										"mc.live.gain~" : [ 0.0 ],
+										"mc.live.gain~" : [ -70.0 ],
 										"number" : [ 168 ]
 									}
 ,
@@ -1937,7 +1937,7 @@
 ,
 		"dependency_cache" : [ 			{
 				"name" : "cross3_help.json",
-				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/Nonlinear Sequencer2.0/docs",
+				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/NonlinearSequencer/docs",
 				"patcherrelativepath" : "../docs",
 				"type" : "JSON",
 				"implicit" : 1
@@ -1948,7 +1948,7 @@
 			}
 , 			{
 				"name" : "nls.cross_seq3BP~.maxpat",
-				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/Nonlinear Sequencer2.0/externals",
+				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/NonlinearSequencer/externals",
 				"patcherrelativepath" : "../externals",
 				"type" : "JSON",
 				"implicit" : 1
@@ -1959,14 +1959,14 @@
 			}
 , 			{
 				"name" : "nls.scope3BP.maxpat",
-				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/Nonlinear Sequencer2.0/externals",
+				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/NonlinearSequencer/externals",
 				"patcherrelativepath" : "../externals",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "patreon_launch.maxpat",
-				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/Nonlinear Sequencer2.0/externals",
+				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/NonlinearSequencer/externals",
 				"patcherrelativepath" : "../externals",
 				"type" : "JSON",
 				"implicit" : 1

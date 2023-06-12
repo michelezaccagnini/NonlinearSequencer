@@ -1,0 +1,406 @@
+{
+	"pattrstorage" : 	{
+		"name" : "cross2_feat",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"nls.cross_seq2BP~::amount1" : [ 0.008609328625696 ],
+					"nls.cross_seq2BP~::amount2" : [ 0.29 ],
+					"nls.cross_seq2BP~::button" : [ 0.0 ],
+					"nls.cross_seq2BP~::live.button" : [ 0.0 ],
+					"nls.cross_seq2BP~::live.button[1]" : [ 0.0 ],
+					"nls.cross_seq2BP~::mainFreq" : [ 2.0 ],
+					"nls.cross_seq2BP~::nls.cross_seq2~" : [ 						{
+							"pw2" : 							{
+								"value" : 0.5
+							}
+,
+							"ph2" : 							{
+								"value" : 0.0
+							}
+,
+							"w1" : 							{
+								"value" : 3.0
+							}
+,
+							"ph1" : 							{
+								"value" : 0.0
+							}
+,
+							"am2" : 							{
+								"value" : 0.29
+							}
+,
+							"rt1" : 							{
+								"value" : 1.0
+							}
+,
+							"freq" : 							{
+								"value" : 2.000001
+							}
+,
+							"w2" : 							{
+								"value" : 3.0
+							}
+,
+							"pw1" : 							{
+								"value" : 0.5
+							}
+,
+							"am1" : 							{
+								"value" : 1.0
+							}
+,
+							"rt2" : 							{
+								"value" : 2.0
+							}
+,
+							"__presetid" : "rnbo"
+						}
+ ],
+					"nls.cross_seq2BP~::phase1" : [ 0.0 ],
+					"nls.cross_seq2BP~::phase2" : [ 0.0 ],
+					"nls.cross_seq2BP~::pw1" : [ 0.011421354115403 ],
+					"nls.cross_seq2BP~::pw2" : [ 0.5 ],
+					"nls.cross_seq2BP~::rate1" : [ 1.0 ],
+					"nls.cross_seq2BP~::rate2" : [ 2.0 ],
+					"nls.cross_seq2BP~::type1" : [ 3.0 ],
+					"nls.cross_seq2BP~::type2" : [ 3.0 ],
+					"bp.LFO::Frequency" : [ 0.011532698610937 ],
+					"bp.LFO::Mute" : [ 0.0 ],
+					"button" : [ 0.0 ],
+					"live.gain~" : [ -14.048450703839521 ],
+					"matrixctrl" : [ 0, 2, 1.0, 1, 1, 1.0, 2, 0, 1.0 ],
+					"nls.ar~" : [ 						{
+							"__presetid" : "rnbo"
+						}
+ ],
+					"number" : [ 200 ],
+					"number[1]" : [ 1 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"nls.cross_seq2BP~::amount1" : [ 1.0 ],
+					"nls.cross_seq2BP~::amount2" : [ 0.29 ],
+					"nls.cross_seq2BP~::button" : [ 0.0 ],
+					"nls.cross_seq2BP~::live.button" : [ 0.0 ],
+					"nls.cross_seq2BP~::live.button[1]" : [ 0.0 ],
+					"nls.cross_seq2BP~::mainFreq" : [ 2.0 ],
+					"nls.cross_seq2BP~::nls.cross_seq2~" : [ 						{
+							"pw2" : 							{
+								"value" : 0.5
+							}
+,
+							"ph2" : 							{
+								"value" : 0.0
+							}
+,
+							"w1" : 							{
+								"value" : 3.0
+							}
+,
+							"ph1" : 							{
+								"value" : 0.0
+							}
+,
+							"am2" : 							{
+								"value" : 0.29
+							}
+,
+							"rt1" : 							{
+								"value" : 1.0
+							}
+,
+							"freq" : 							{
+								"value" : 2.000001
+							}
+,
+							"w2" : 							{
+								"value" : 3.0
+							}
+,
+							"pw1" : 							{
+								"value" : 0.5
+							}
+,
+							"am1" : 							{
+								"value" : 1.0
+							}
+,
+							"rt2" : 							{
+								"value" : 2.0
+							}
+,
+							"__presetid" : "rnbo"
+						}
+ ],
+					"nls.cross_seq2BP~::phase1" : [ 0.0 ],
+					"nls.cross_seq2BP~::phase2" : [ 0.0 ],
+					"nls.cross_seq2BP~::pw1" : [ 0.963712133294429 ],
+					"nls.cross_seq2BP~::pw2" : [ 0.5 ],
+					"nls.cross_seq2BP~::rate1" : [ 1.0 ],
+					"nls.cross_seq2BP~::rate2" : [ 2.0 ],
+					"nls.cross_seq2BP~::type1" : [ 3.0 ],
+					"nls.cross_seq2BP~::type2" : [ 3.0 ],
+					"bp.LFO::Frequency" : [ 0.011532698610937 ],
+					"bp.LFO::Mute" : [ 0.0 ],
+					"button" : [  ],
+					"live.gain~" : [  ],
+					"matrixctrl" : [  ],
+					"nls.ar~" : [  ],
+					"number" : [  ],
+					"number[1]" : [  ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"nls.cross_seq2BP~::amount1" : [ 0.464573909722893 ],
+					"nls.cross_seq2BP~::amount2" : [ 0.774307114593001 ],
+					"nls.cross_seq2BP~::button" : [ 0.0 ],
+					"nls.cross_seq2BP~::live.button" : [ 0.0 ],
+					"nls.cross_seq2BP~::live.button[1]" : [ 0.0 ],
+					"nls.cross_seq2BP~::mainFreq" : [ 1.0 ],
+					"nls.cross_seq2BP~::nls.cross_seq2~" : [ 						{
+							"pw2" : 							{
+								"value" : 0.5
+							}
+,
+							"ph2" : 							{
+								"value" : 0.0
+							}
+,
+							"w1" : 							{
+								"value" : 0.0
+							}
+,
+							"ph1" : 							{
+								"value" : 0.0
+							}
+,
+							"am2" : 							{
+								"value" : 0.93
+							}
+,
+							"rt1" : 							{
+								"value" : 1.0
+							}
+,
+							"freq" : 							{
+								"value" : 1.000001
+							}
+,
+							"w2" : 							{
+								"value" : 1.0
+							}
+,
+							"pw1" : 							{
+								"value" : 0.5
+							}
+,
+							"am1" : 							{
+								"value" : 0.772820662598
+							}
+,
+							"rt2" : 							{
+								"value" : 1.5
+							}
+,
+							"__presetid" : "rnbo"
+						}
+ ],
+					"nls.cross_seq2BP~::phase1" : [ 0.0 ],
+					"nls.cross_seq2BP~::phase2" : [ 0.0 ],
+					"nls.cross_seq2BP~::pw1" : [ 0.283137186862079 ],
+					"nls.cross_seq2BP~::pw2" : [ 0.5 ],
+					"nls.cross_seq2BP~::rate1" : [ 1.0 ],
+					"nls.cross_seq2BP~::rate2" : [ 2.0 ],
+					"nls.cross_seq2BP~::type1" : [ 0.0 ],
+					"nls.cross_seq2BP~::type2" : [ 0.0 ],
+					"bp.LFO::Frequency" : [ 0.050095592782171 ],
+					"bp.LFO::Mute" : [ 0.0 ],
+					"button" : [ 0.0 ],
+					"live.gain~" : [ -14.048450703839521 ],
+					"matrixctrl" : [ 0, 2, 1.0, 1, 1, 1.0, 2, 0, 1.0 ],
+					"nls.ar~" : [ 						{
+							"__presetid" : "rnbo"
+						}
+ ],
+					"number" : [ 200 ],
+					"number[1]" : [ 7 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"nls.cross_seq2BP~::amount1" : [ 0.878052469902252 ],
+					"nls.cross_seq2BP~::amount2" : [ 1.0 ],
+					"nls.cross_seq2BP~::button" : [ 0.0 ],
+					"nls.cross_seq2BP~::live.button" : [ 0.0 ],
+					"nls.cross_seq2BP~::live.button[1]" : [ 0.0 ],
+					"nls.cross_seq2BP~::mainFreq" : [ 1.0 ],
+					"nls.cross_seq2BP~::nls.cross_seq2~" : [ 						{
+							"pw2" : 							{
+								"value" : 0.5
+							}
+,
+							"ph2" : 							{
+								"value" : 0.0
+							}
+,
+							"w1" : 							{
+								"value" : 0.0
+							}
+,
+							"ph1" : 							{
+								"value" : 0.0
+							}
+,
+							"am2" : 							{
+								"value" : 0.93
+							}
+,
+							"rt1" : 							{
+								"value" : 1.0
+							}
+,
+							"freq" : 							{
+								"value" : 1.000001
+							}
+,
+							"w2" : 							{
+								"value" : 1.0
+							}
+,
+							"pw1" : 							{
+								"value" : 0.5
+							}
+,
+							"am1" : 							{
+								"value" : 0.772820662598
+							}
+,
+							"rt2" : 							{
+								"value" : 1.5
+							}
+,
+							"__presetid" : "rnbo"
+						}
+ ],
+					"nls.cross_seq2BP~::phase1" : [ 0.0 ],
+					"nls.cross_seq2BP~::phase2" : [ 0.0 ],
+					"nls.cross_seq2BP~::pw1" : [ 0.295853031530591 ],
+					"nls.cross_seq2BP~::pw2" : [ 0.5 ],
+					"nls.cross_seq2BP~::rate1" : [ 1.0 ],
+					"nls.cross_seq2BP~::rate2" : [ 2.0 ],
+					"nls.cross_seq2BP~::type1" : [ 3.0 ],
+					"nls.cross_seq2BP~::type2" : [ 1.0 ],
+					"bp.LFO::Frequency" : [ 0.050095592782171 ],
+					"bp.LFO::Mute" : [ 0.0 ],
+					"button" : [ 0.0 ],
+					"live.gain~" : [ -14.048450703839521 ],
+					"matrixctrl" : [ 0, 2, 1.0, 1, 1, 1.0, 2, 0, 1.0 ],
+					"nls.ar~" : [ 						{
+							"__presetid" : "rnbo"
+						}
+ ],
+					"number" : [ 200 ],
+					"number[1]" : [ 7 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"data" : 				{
+					"nls.cross_seq2BP~::amount1" : [ 0.044930241294712 ],
+					"nls.cross_seq2BP~::amount2" : [ 0.29 ],
+					"nls.cross_seq2BP~::button" : [ 0.0 ],
+					"nls.cross_seq2BP~::live.button" : [ 0.0 ],
+					"nls.cross_seq2BP~::live.button[1]" : [ 0.0 ],
+					"nls.cross_seq2BP~::mainFreq" : [ 2.0 ],
+					"nls.cross_seq2BP~::nls.cross_seq2~" : [ 						{
+							"pw2" : 							{
+								"value" : 0.5
+							}
+,
+							"ph2" : 							{
+								"value" : 0.0
+							}
+,
+							"w1" : 							{
+								"value" : 3.0
+							}
+,
+							"ph1" : 							{
+								"value" : 0.0
+							}
+,
+							"am2" : 							{
+								"value" : 0.29
+							}
+,
+							"rt1" : 							{
+								"value" : 1.0
+							}
+,
+							"freq" : 							{
+								"value" : 2.000001
+							}
+,
+							"w2" : 							{
+								"value" : 3.0
+							}
+,
+							"pw1" : 							{
+								"value" : 0.5
+							}
+,
+							"am1" : 							{
+								"value" : 1.0
+							}
+,
+							"rt2" : 							{
+								"value" : 2.0
+							}
+,
+							"__presetid" : "rnbo"
+						}
+ ],
+					"nls.cross_seq2BP~::phase1" : [ 0.0 ],
+					"nls.cross_seq2BP~::phase2" : [ 0.0 ],
+					"nls.cross_seq2BP~::pw1" : [ 0.963712133294429 ],
+					"nls.cross_seq2BP~::pw2" : [ 0.5 ],
+					"nls.cross_seq2BP~::rate1" : [ 1.0 ],
+					"nls.cross_seq2BP~::rate2" : [ 2.0 ],
+					"nls.cross_seq2BP~::type1" : [ 3.0 ],
+					"nls.cross_seq2BP~::type2" : [ 3.0 ],
+					"bp.LFO::Frequency" : [ 0.011532698610937 ],
+					"bp.LFO::Mute" : [ 0.0 ],
+					"button" : [ 0.0 ],
+					"live.gain~" : [ -14.048450703839521 ],
+					"matrixctrl" : [ 0, 2, 1.0, 1, 1, 1.0, 2, 0, 1.0 ],
+					"nls.ar~" : [ 						{
+							"__presetid" : "rnbo"
+						}
+ ],
+					"number" : [ 200 ],
+					"number[1]" : [ 1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

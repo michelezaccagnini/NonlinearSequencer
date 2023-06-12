@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 129.0, 259.0, 653.0, 686.0 ],
+		"rect" : [ 100.0, 100.0, 653.0, 686.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -938,7 +938,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 129.0, 285.0, 653.0, 660.0 ],
+						"rect" : [ 100.0, 126.0, 653.0, 660.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -970,12 +970,25 @@
 						"boxes" : [ 							{
 								"box" : 								{
 									"hidden" : 1,
+									"id" : "obj-13",
+									"maxclass" : "message",
+									"numinlets" : 2,
+									"numoutlets" : 1,
+									"outlettype" : [ "" ],
+									"patching_rect" : [ 574.671099066734314, 298.381299614906311, 63.0, 22.0 ],
+									"text" : "writeagain"
+								}
+
+							}
+, 							{
+								"box" : 								{
+									"hidden" : 1,
 									"id" : "obj-12",
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 1,
 									"outlettype" : [ "bang" ],
-									"patching_rect" : [ 691.851829171180725, 368.455328643321991, 58.0, 22.0 ],
+									"patching_rect" : [ 496.671099066734314, 228.696287333965302, 58.0, 22.0 ],
 									"text" : "loadbang"
 								}
 
@@ -988,7 +1001,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 691.851829171180725, 438.140340924263, 80.0, 22.0 ],
+									"patching_rect" : [ 496.671099066734314, 298.381299614906311, 80.0, 22.0 ],
 									"text" : "prepend read"
 								}
 
@@ -1001,7 +1014,7 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 691.851829171180725, 393.183001279830933, 99.0, 22.0 ],
+									"patching_rect" : [ 496.671099066734314, 253.423959970474243, 99.0, 22.0 ],
 									"text" : "cross2_help.json"
 								}
 
@@ -1014,7 +1027,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 691.851829171180725, 414.074060499668121, 77.0, 22.0 ],
+									"patching_rect" : [ 496.671099066734314, 274.315019190311432, 77.0, 22.0 ],
 									"text" : "absolutepath"
 								}
 
@@ -1031,7 +1044,7 @@
 									"restore" : 									{
 										"button" : [ 0.0 ],
 										"live.gain~" : [ -7.587462573027537 ],
-										"matrixctrl" : [ 0, 1, 1.0, 1, 0, 1.0, 2, 2, 1.0 ],
+										"matrixctrl" : [ 0, 2, 1.0, 1, 1, 1.0, 2, 0, 1.0 ],
 										"nls.ar~" : [ 											{
 												"__presetid" : "rnbo"
 											}
@@ -1736,7 +1749,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 691.851829171180725, 462.140340924263, 141.0, 22.0 ],
+									"patching_rect" : [ 496.671099066734314, 322.381299614906311, 141.0, 22.0 ],
 									"saved_object_attributes" : 									{
 										"client_rect" : [ 2750, 336, 3150, 836 ],
 										"parameter_enable" : 0,
@@ -1948,6 +1961,13 @@
 								"patchline" : 								{
 									"destination" : [ "obj-8", 0 ],
 									"source" : [ "obj-12", 0 ]
+								}
+
+							}
+, 							{
+								"patchline" : 								{
+									"destination" : [ "obj-3", 0 ],
+									"source" : [ "obj-13", 0 ]
 								}
 
 							}
@@ -2502,7 +2522,6 @@
 			"obj-18::obj-1::obj-48" : [ "live.menu[6]", "live.menu", 0 ],
 			"obj-18::obj-1::obj-49" : [ "live.menu[7]", "live.menu", 0 ],
 			"obj-18::obj-1::obj-5" : [ "phase1[1]", "pw2", 0 ],
-			"obj-18::obj-1::obj-52" : [ "live.menu[31]", "live.menu[3]", 0 ],
 			"obj-18::obj-1::obj-9" : [ "interpolate[4]", "phase1", 0 ],
 			"obj-18::obj-5" : [ "live.gain~[1]", "live.gain~[1]", 0 ],
 			"obj-33" : [ "multislider", "multislider", 0 ],
@@ -2533,7 +2552,7 @@
 ,
 		"dependency_cache" : [ 			{
 				"name" : "cross2_help.json",
-				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/Nonlinear Sequencer2.0/docs",
+				"bootpath" : "~/OneDrive/Documents/GitHub/NonlinearSequencer/docs",
 				"patcherrelativepath" : "../docs",
 				"type" : "JSON",
 				"implicit" : 1
@@ -2544,7 +2563,7 @@
 			}
 , 			{
 				"name" : "nls.cross_seq2BP~.maxpat",
-				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/Nonlinear Sequencer2.0/externals",
+				"bootpath" : "~/OneDrive/Documents/GitHub/NonlinearSequencer/externals",
 				"patcherrelativepath" : "../externals",
 				"type" : "JSON",
 				"implicit" : 1
@@ -2555,7 +2574,7 @@
 			}
 , 			{
 				"name" : "patreon_launch.maxpat",
-				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/Nonlinear Sequencer2.0/externals",
+				"bootpath" : "~/OneDrive/Documents/GitHub/NonlinearSequencer/externals",
 				"patcherrelativepath" : "../externals",
 				"type" : "JSON",
 				"implicit" : 1

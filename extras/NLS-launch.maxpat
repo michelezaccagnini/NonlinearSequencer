@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 459.0, 143.0, 750.0, 957.0 ],
+		"rect" : [ 1263.0, 469.0, 574.0, 700.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -47,7 +47,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 256.558322131633759, 569.148135423660278, 570.0, 36.0 ],
-					"presentation_linecount" : 5,
 					"text" : ";\r\nmax launchbrowser https://www.youtube.com/playlist?list=PLFrjDZyEM_POzdyDFGsBI07W8wXp5FwMW"
 				}
 
@@ -711,11 +710,11 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 17.921069025993347, 276.5, 179.0, 158.0 ],
+					"patching_rect" : [ 17.921069025993347, 276.5, 181.0, 158.0 ],
 					"presentation" : 1,
 					"presentation_linecount" : 6,
-					"presentation_rect" : [ 177.5, 103.470875829458237, 280.0, 89.0 ],
-					"text" : "Use this package to\n- Explore nonlinear time function in a sequencer     \n- Maintain overall predictability of behavior\n- Rely on sample accurate DSP pipeline\n- Measure rhythmic events regularity in real time\n-Utilize CV related to rhythmic generation",
+					"presentation_rect" : [ 177.5, 103.470875829458237, 318.823531031608582, 89.0 ],
+					"text" : "Use this package to\n- Explore nonlinear time function in a sequencer     \n- Maintain overall predictability of behavior\n- Rely on sample accurate DSP pipeline\n- Measure rhythmic events regularity in real time\n- Harness rhythmically pertinent control data ",
 					"textcolor" : [ 0.043137254901961, 0.070588235294118, 0.329411764705882, 1.0 ]
 				}
 
@@ -1074,7 +1073,7 @@
 			}
 , 			{
 				"name" : "patreon_launch.maxpat",
-				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/Nonlinear Sequencer2.0/externals",
+				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/NonlinearSequencer/externals",
 				"patcherrelativepath" : "../externals",
 				"type" : "JSON",
 				"implicit" : 1
