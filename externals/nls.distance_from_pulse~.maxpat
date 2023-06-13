@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 1204.0, 321.0, 626.0, 476.0 ],
+		"rect" : [ 1204.0, 321.0, 801.0, 577.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -261,7 +261,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 4,
 					"outlettype" : [ "signal", "signal", "signal", "signal" ],
-					"patching_rect" : [ 33.0, 213.0, 260.0, 22.0 ],
+					"patching_rect" : [ 33.0, 212.468085110187531, 177.0, 22.0 ],
 					"text" : "gen~ @gen distanceFromPulse"
 				}
 

@@ -710,7 +710,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 17.921069025993347, 276.5, 181.0, 158.0 ],
+					"patching_rect" : [ 17.921069025993347, 276.5, 184.0, 158.0 ],
 					"presentation" : 1,
 					"presentation_linecount" : 6,
 					"presentation_rect" : [ 177.5, 103.470875829458237, 318.823531031608582, 89.0 ],

@@ -238,7 +238,7 @@
 				"data" : 				{
 					"button" : [ 0.0 ],
 					"live.gain~" : [ -14.048450703839521 ],
-					"matrixctrl" : [ 0, 2, 1.0, 1, 1, 1.0, 2, 0, 1.0 ],
+					"matrixctrl" : [ 0, 0, 1.0, 1, 1, 1.0, 2, 2, 1.0 ],
 					"nls.ar~" : [ 						{
 							"__presetid" : "rnbo"
 						}
@@ -301,7 +301,7 @@
  ],
 					"nls.cross_seq2BP~::phase1" : [ 0.0 ],
 					"nls.cross_seq2BP~::phase2" : [ 0.0 ],
-					"nls.cross_seq2BP~::pw1" : [ 0.295853031530591 ],
+					"nls.cross_seq2BP~::pw1" : [ 0.817831009500135 ],
 					"nls.cross_seq2BP~::pw2" : [ 0.5 ],
 					"nls.cross_seq2BP~::rate1" : [ 1.0 ],
 					"nls.cross_seq2BP~::rate2" : [ 2.0 ],
