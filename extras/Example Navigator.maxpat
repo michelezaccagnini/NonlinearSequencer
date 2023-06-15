@@ -4,7 +4,7 @@
 		"appversion" : 		{
 			"major" : 8,
 			"minor" : 5,
-			"revision" : 4,
+			"revision" : 5,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
@@ -42,6 +42,38 @@
 				"box" : 				{
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
+					"id" : "obj-5",
+					"maxclass" : "message",
+					"numinlets" : 2,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 455.25, 204.0, 143.0, 22.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 451.0, 191.121951219512198, 143.0, 22.0 ],
+					"text" : "trigger_logic & cross_seq"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"fontname" : "Arial",
+					"fontsize" : 12.0,
+					"id" : "obj-4",
+					"maxclass" : "message",
+					"numinlets" : 2,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 440.25, 189.0, 123.0, 22.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 451.0, 154.560975609756099, 138.25, 22.0 ],
+					"text" : "cross_seq3 modulate"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"fontname" : "Arial",
+					"fontsize" : 12.0,
 					"id" : "obj-3",
 					"linecount" : 2,
 					"maxclass" : "message",
@@ -50,7 +82,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 236.0, 202.0, 101.0, 36.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 233.0, 204.0, 137.0, 22.0 ],
+					"presentation_rect" : [ 234.0, 223.679245283018872, 137.0, 22.0 ],
 					"text" : "trigger logic & cross seq"
 				}
 
@@ -64,10 +96,10 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 30.0, 156.0, 107.0, 22.0 ],
+					"patching_rect" : [ 440.25, 162.0, 123.0, 22.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 451.0, 120.0, 108.0, 22.0 ],
-					"text" : "cross seq features"
+					"presentation_rect" : [ 451.0, 120.0, 130.0, 22.0 ],
+					"text" : "cross_seq2 modulate"
 				}
 
 			}
@@ -83,7 +115,7 @@
 						"appversion" : 						{
 							"major" : 8,
 							"minor" : 5,
-							"revision" : 4,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -343,9 +375,9 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 436.0, 120.0, 164.0, 22.0 ],
+					"patching_rect" : [ 30.0, 224.0, 164.0, 22.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 30.0, 150.0, 164.0, 22.0 ],
+					"presentation_rect" : [ 30.0, 154.560975609756099, 164.0, 22.0 ],
 					"text" : "expressive rhythmic mapping"
 				}
 
@@ -361,7 +393,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 233.0, 150.0, 125.0, 22.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 233.0, 150.0, 125.0, 22.0 ],
+					"presentation_rect" : [ 234.0, 154.560975609756099, 125.0, 22.0 ],
 					"text" : "machine learn scaling"
 				}
 
@@ -377,7 +409,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 233.0, 180.0, 101.0, 22.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 233.0, 180.0, 101.0, 22.0 ],
+					"presentation_rect" : [ 234.0, 191.121951219512198, 101.0, 22.0 ],
 					"text" : "simple envelopes"
 				}
 
@@ -409,7 +441,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 233.0, 120.0, 101.0, 22.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 233.0, 120.0, 101.0, 22.0 ],
+					"presentation_rect" : [ 234.0, 120.0, 101.0, 22.0 ],
 					"text" : "regular sequence"
 				}
 
@@ -423,9 +455,9 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 436.0, 150.0, 153.0, 22.0 ],
+					"patching_rect" : [ 30.0, 189.0, 153.0, 22.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 30.0, 180.0, 153.0, 22.0 ],
+					"presentation_rect" : [ 30.0, 191.121951219512198, 153.0, 22.0 ],
 					"text" : "regular vs irregular accents"
 				}
 
@@ -456,7 +488,7 @@
 					"mode" : 0,
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 421.0, 60.0, 185.25, 199.0 ],
+					"patching_rect" : [ 419.125, 54.0, 185.25, 199.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 427.0, 60.0, 185.25, 199.0 ],
 					"proportion" : 0.5
@@ -541,7 +573,21 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-9", 0 ],
+					"source" : [ "obj-4", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-9", 0 ],
 					"source" : [ "obj-40", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-9", 0 ],
+					"source" : [ "obj-5", 0 ]
 				}
 
 			}
