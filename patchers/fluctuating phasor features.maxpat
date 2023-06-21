@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 85.0, 3372.0, 1289.0 ],
+		"rect" : [ 45.0, 105.0, 800.0, 668.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -87,7 +87,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 0.0, 26.0, 3372.0, 1263.0 ],
+						"rect" : [ 0.0, 26.0, 800.0, 642.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -923,11 +923,11 @@
 																	"box" : 																	{
 																		"maxclass" : "newobj",
 																		"text" : "< 0",
-																		"patching_rect" : [ 176.0, 198.0, 26.0, 22.0 ],
-																		"numoutlets" : 1,
 																		"outlettype" : [ "" ],
 																		"id" : "obj-5",
-																		"numinlets" : 1
+																		"patching_rect" : [ 176.0, 198.0, 26.0, 22.0 ],
+																		"numinlets" : 1,
+																		"numoutlets" : 1
 																	}
 
 																}
@@ -935,11 +935,11 @@
 																	"box" : 																	{
 																		"maxclass" : "newobj",
 																		"text" : "in 1",
-																		"patching_rect" : [ 50.0, 14.0, 28.0, 22.0 ],
-																		"numoutlets" : 1,
 																		"outlettype" : [ "" ],
 																		"id" : "obj-1",
-																		"numinlets" : 0
+																		"patching_rect" : [ 50.0, 14.0, 28.0, 22.0 ],
+																		"numinlets" : 0,
+																		"numoutlets" : 1
 																	}
 
 																}
@@ -947,11 +947,11 @@
 																	"box" : 																	{
 																		"maxclass" : "newobj",
 																		"text" : "delta",
-																		"patching_rect" : [ 176.0, 149.0, 35.0, 22.0 ],
-																		"numoutlets" : 1,
 																		"outlettype" : [ "" ],
 																		"id" : "obj-3",
-																		"numinlets" : 1
+																		"patching_rect" : [ 176.0, 149.0, 35.0, 22.0 ],
+																		"numinlets" : 1,
+																		"numoutlets" : 1
 																	}
 
 																}
@@ -959,18 +959,18 @@
 																	"box" : 																	{
 																		"maxclass" : "newobj",
 																		"text" : "out 1",
-																		"patching_rect" : [ 176.0, 418.0, 35.0, 22.0 ],
-																		"numoutlets" : 0,
 																		"id" : "obj-4",
-																		"numinlets" : 1
+																		"patching_rect" : [ 176.0, 418.0, 35.0, 22.0 ],
+																		"numinlets" : 1,
+																		"numoutlets" : 0
 																	}
 
 																}
  ],
 															"lines" : [ 																{
 																	"patchline" : 																	{
-																		"source" : [ "obj-1", 0 ],
-																		"destination" : [ "obj-3", 0 ]
+																		"source" : [ "obj-5", 0 ],
+																		"destination" : [ "obj-4", 0 ]
 																	}
 
 																}
@@ -983,8 +983,8 @@
 																}
 , 																{
 																	"patchline" : 																	{
-																		"source" : [ "obj-5", 0 ],
-																		"destination" : [ "obj-4", 0 ]
+																		"source" : [ "obj-1", 0 ],
+																		"destination" : [ "obj-3", 0 ]
 																	}
 
 																}
@@ -1000,7 +1000,7 @@
 													"outlettype" : [ "multichannelsignal" ],
 													"patching_rect" : [ 53.0, 115.0, 55.0, 22.0 ],
 													"text" : "mc.gen~",
-													"wrapper_uniquekey" : "u967000333"
+													"wrapper_uniquekey" : "u987001277"
 												}
 
 											}
@@ -2233,7 +2233,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 34.0, 111.0, 3372.0, 1263.0 ],
+						"rect" : [ 45.0, 131.0, 800.0, 642.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -3102,7 +3102,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 0.0, 26.0, 3372.0, 1263.0 ],
+						"rect" : [ 0.0, 26.0, 800.0, 642.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -4046,7 +4046,7 @@
 							}
 , 							{
 								"box" : 								{
-									"buffername" : "PHAS_FREQ9599",
+									"buffername" : "PHAS_FREQ3089",
 									"id" : "obj-10",
 									"labels" : 0,
 									"maxclass" : "waveform~",
@@ -4430,7 +4430,7 @@
 									}
 ,
 									"size" : 6,
-									"value" : 0,
+									"value" : 2,
 									"varname" : "radiogroup"
 								}
 

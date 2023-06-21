@@ -4,7 +4,7 @@
 		"appversion" : 		{
 			"major" : 8,
 			"minor" : 5,
-			"revision" : 4,
+			"revision" : 5,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
@@ -50,7 +50,7 @@
 						"appversion" : 						{
 							"major" : 8,
 							"minor" : 5,
-							"revision" : 4,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -316,7 +316,7 @@
 						"appversion" : 						{
 							"major" : 8,
 							"minor" : 5,
-							"revision" : 4,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -401,7 +401,7 @@
 										"appversion" : 										{
 											"major" : 8,
 											"minor" : 5,
-											"revision" : 4,
+											"revision" : 5,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -2570,7 +2570,7 @@
 						"appversion" : 						{
 							"major" : 8,
 							"minor" : 5,
-							"revision" : 4,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -2820,7 +2820,7 @@
 						"appversion" : 						{
 							"major" : 8,
 							"minor" : 5,
-							"revision" : 4,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -3381,92 +3381,92 @@
 ,
 		"dependency_cache" : [ 			{
 				"name" : "distanceFromPulse.gendsp",
-				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/Nonlinear Sequencer2.0/code",
-				"patcherrelativepath" : "../../../Max 8/Packages/Nonlinear Sequencer2.0/code",
+				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/NonlinearSequencer/code",
+				"patcherrelativepath" : "../code",
 				"type" : "gDSP",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "nls.beat_fluctuate.maxpat",
-				"bootpath" : "~/OneDrive/Documents/GitHub/NonlinearSequencer/externals",
+				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/NonlinearSequencer/externals",
 				"patcherrelativepath" : "../externals",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "nls.beat_makeup.maxpat",
-				"bootpath" : "~/OneDrive/Documents/GitHub/NonlinearSequencer/externals",
+				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/NonlinearSequencer/externals",
 				"patcherrelativepath" : "../externals",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "nls.distance_from_pulse~.maxpat",
-				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/Nonlinear Sequencer2.0/externals",
-				"patcherrelativepath" : "../../../Max 8/Packages/Nonlinear Sequencer2.0/externals",
+				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/NonlinearSequencer/externals",
+				"patcherrelativepath" : "../externals",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "nls.fluctuate_phasor~.maxpat",
-				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/Nonlinear Sequencer2.0/externals",
-				"patcherrelativepath" : "../../../Max 8/Packages/Nonlinear Sequencer2.0/externals",
+				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/NonlinearSequencer/externals",
+				"patcherrelativepath" : "../externals",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "nls.regular_triggers~.maxpat",
-				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/Nonlinear Sequencer2.0/externals",
-				"patcherrelativepath" : "../../../Max 8/Packages/Nonlinear Sequencer2.0/externals",
+				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/NonlinearSequencer/externals",
+				"patcherrelativepath" : "../externals",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "nls.running_scale~.maxpat",
-				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/Nonlinear Sequencer2.0/externals",
-				"patcherrelativepath" : "../../../Max 8/Packages/Nonlinear Sequencer2.0/externals",
+				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/NonlinearSequencer/externals",
+				"patcherrelativepath" : "../externals",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "pan2S.maxpat",
 				"bootpath" : "~/AppData/Roaming/Cycling '74/Max 8/examples/spatialization/panning/lib",
-				"patcherrelativepath" : "../../../../../AppData/Roaming/Cycling '74/Max 8/examples/spatialization/panning/lib",
+				"patcherrelativepath" : "../../../../../../AppData/Roaming/Cycling '74/Max 8/examples/spatialization/panning/lib",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "peakStretch.gendsp",
 				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/mic_externals/mic_gen",
-				"patcherrelativepath" : "../../../Max 8/Packages/mic_externals/mic_gen",
+				"patcherrelativepath" : "../../mic_externals/mic_gen",
 				"type" : "gDSP",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "sig_maximum~.gendsp",
-				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/Nonlinear Sequencer2.0/code",
-				"patcherrelativepath" : "../../../Max 8/Packages/Nonlinear Sequencer2.0/code",
+				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/NonlinearSequencer/code",
+				"patcherrelativepath" : "../code",
 				"type" : "gDSP",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "sig_minimum~.gendsp",
-				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/Nonlinear Sequencer2.0/code",
-				"patcherrelativepath" : "../../../Max 8/Packages/Nonlinear Sequencer2.0/code",
+				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/NonlinearSequencer/code",
+				"patcherrelativepath" : "../code",
 				"type" : "gDSP",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "simple_envelopes.maxpat",
-				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/Nonlinear Sequencer2.0/externals",
-				"patcherrelativepath" : "../../../Max 8/Packages/Nonlinear Sequencer2.0/externals",
+				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/NonlinearSequencer/externals",
+				"patcherrelativepath" : "../externals",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "trig2env.gendsp",
-				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/Nonlinear Sequencer2.0/code",
-				"patcherrelativepath" : "../../../Max 8/Packages/Nonlinear Sequencer2.0/code",
+				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/NonlinearSequencer/code",
+				"patcherrelativepath" : "../code",
 				"type" : "gDSP",
 				"implicit" : 1
 			}

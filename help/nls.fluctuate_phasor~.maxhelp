@@ -4,7 +4,7 @@
 		"appversion" : 		{
 			"major" : 8,
 			"minor" : 5,
-			"revision" : 4,
+			"revision" : 5,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
@@ -63,7 +63,7 @@
 						"appversion" : 						{
 							"major" : 8,
 							"minor" : 5,
-							"revision" : 4,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -451,7 +451,7 @@
 			}
 , 			{
 				"box" : 				{
-					"buffername" : "PHAS_FREQ7060",
+					"buffername" : "PHAS_FREQ1436",
 					"id" : "obj-10",
 					"labels" : 0,
 					"maxclass" : "waveform~",
@@ -562,7 +562,7 @@
 						"appversion" : 						{
 							"major" : 8,
 							"minor" : 5,
-							"revision" : 4,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -980,30 +980,30 @@
 		}
 ,
 		"dependency_cache" : [ 			{
-				"name" : "mic.beat_fluctuate.maxpat",
-				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/Nonlinear Sequencer/externals",
-				"patcherrelativepath" : "../../../Documents/Max 8/Packages/Nonlinear Sequencer/externals",
+				"name" : "nls.beat_fluctuate.maxpat",
+				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/NonlinearSequencer/externals",
+				"patcherrelativepath" : "../externals",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "mic.beat_makeup.maxpat",
-				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/Nonlinear Sequencer/externals",
-				"patcherrelativepath" : "../../../Documents/Max 8/Packages/Nonlinear Sequencer/externals",
+				"name" : "nls.beat_makeup.maxpat",
+				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/NonlinearSequencer/externals",
+				"patcherrelativepath" : "../externals",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "nls.fluctuate_phasor~.maxpat",
-				"bootpath" : "~/OneDrive/Desktop/NLS2/NLS objects",
-				"patcherrelativepath" : ".",
+				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/NonlinearSequencer/externals",
+				"patcherrelativepath" : "../externals",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "patreon_launch.maxpat",
-				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/Nonlinear Sequencer/externals",
-				"patcherrelativepath" : "../../../Documents/Max 8/Packages/Nonlinear Sequencer/externals",
+				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/NonlinearSequencer/externals",
+				"patcherrelativepath" : "../externals",
 				"type" : "JSON",
 				"implicit" : 1
 			}
