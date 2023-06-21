@@ -1,12 +1,12 @@
 {
 	"name" : "Nonlinear Sequencer",
 	"displayname" : "",
-	"version" : "1.0.1",
+	"version" : "2.0.1",
 	"author" : "Michele Zaccagnini",
 	"authors" : [  ],
 	"description" : "Create sequencer frequency oscillations around a fixed frequency. The overall robustness and sample accuracy of the sequencer is left intact while the sequencer is allowed a locally irregular behavior.",
 	"tags" : [ "sequencer", "rhythmic", "algorithmic", "composition", "generation" ],
-	"website" : "https://michelezaccagnini.blog/",
+	"website" : "https://www.youtube.com/c/MicheleZaccagnini",
 	"extends" : "",
 	"extensible" : 0,
 	"max_version_min" : "7.1",
@@ -31,9 +31,9 @@
 	}
 ,
 	"filelist" : 	{
-		"externals" : [ "mic.ar~.maxpat", "mic.beat_distance~.maxpat", "mic.beat_fluctuate.maxpat", "mic.beat_makeup.maxpat", "mic.distance_from_pulse~.maxpat", "mic.fluctuate_phasor~.maxpat", "mic.regular_triggers~.maxpat", "mic.running_scale~.maxpat", "mic.timer.maxpat", "mic.trigger_counter~.maxpat", "patreon_launch.maxpat", "poly_fluctuate.maxpat", "simple_envelopes.maxpat" ],
+		"externals" : [ "nls.cross_seq2~","nls.cross_seq3~","nls.trigger_logic~","nls.ar~.maxpat", "nls.beat_distance~.maxpat", "nls.beat_fluctuate.maxpat", "nls.beat_makeup.maxpat", "nls.distance_from_pulse~.maxpat", "nls.fluctuate_phasor~.maxpat", "nls.regular_triggers~.maxpat", "nls.running_scale~.maxpat", "nls.timer.maxpat", "nls.trigger_counter~.maxpat", "patreon_launch.maxpat", "poly_fluctuate.maxpat", "simple_envelopes.maxpat" ],
 		"patchers" : [ "Example Navigator.maxpat", "expressive rhythmic mapping.maxpat", "fluctuating phasor.maxpat", "machine learn scaling.maxpat", "measuring fluctuations.maxpat", "measuring regularity.maxpat", "regular sequence.maxpat", "regular vs irregular accents.maxpat", "simple envelopes.maxpat", "syncing modes.maxpat" ],
-		"help" : [ "mic.ar~.maxhelp", "mic.distance_from_pulse~.maxhelp", "mic.fluctuate_phasor~.maxhelp", "mic.regular_triggers~.maxhelp", "mic.running_scale~.maxhelp", "mic.trigger_counter~.maxhelp" ],
+		"help" : [ "nls.cross_seq2~.maxhelp","nls.cross_seq3~.maxhelp","nls.trigger_logic~.maxhelp","nls.ar~.maxhelp", "nls.distance_from_pulse~.maxhelp", "nls.fluctuate_phasor~.maxhelp", "nls.regular_triggers~.maxhelp", "nls.running_scale~.maxhelp", "nls.trigger_counter~.maxhelp" ],
 		"docs" : [ "Nonlinear_Sequencing.pdf" ],
 		"code" : [ "beat_distance.gendsp", "distanceFromPulse.gendsp", "envelope2.gendsp", "non_lin_phas.gendsp", "peakStretch.gendsp", "phasor_edge.gendsp", "sig_maximum~.gendsp", "sig_minimum~.gendsp", "sin_distort.gendsp", "trig2env.gendsp", "trigger_count.gendsp" ],
 		"extras" : [ "NLS-launch.maxpat" ]

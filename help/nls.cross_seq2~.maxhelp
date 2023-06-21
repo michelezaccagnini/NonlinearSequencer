@@ -4,7 +4,7 @@
 		"appversion" : 		{
 			"major" : 8,
 			"minor" : 5,
-			"revision" : 4,
+			"revision" : 5,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
@@ -84,7 +84,7 @@
 						"appversion" : 						{
 							"major" : 8,
 							"minor" : 5,
-							"revision" : 4,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -242,7 +242,7 @@
 						"appversion" : 						{
 							"major" : 8,
 							"minor" : 5,
-							"revision" : 4,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -442,7 +442,7 @@
 						"appversion" : 						{
 							"major" : 8,
 							"minor" : 5,
-							"revision" : 4,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -600,7 +600,7 @@
 						"appversion" : 						{
 							"major" : 8,
 							"minor" : 5,
-							"revision" : 4,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -932,13 +932,13 @@
 						"appversion" : 						{
 							"major" : 8,
 							"minor" : 5,
-							"revision" : 4,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 100.0, 126.0, 653.0, 660.0 ],
+						"rect" : [ 0.0, 26.0, 653.0, 660.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -1082,7 +1082,7 @@
 										"appversion" : 										{
 											"major" : 8,
 											"minor" : 5,
-											"revision" : 4,
+											"revision" : 5,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -1128,7 +1128,7 @@
 														"appversion" : 														{
 															"major" : 8,
 															"minor" : 5,
-															"revision" : 4,
+															"revision" : 5,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -2235,13 +2235,13 @@
 					"numinlets" : 1,
 					"numoutlets" : 5,
 					"outlettype" : [ "signal", "signal", "signal", "signal", "signal" ],
-					"patching_rect" : [ 10.954402267932892, 338.311185717582703, 171.975537180900574, 22.0 ],
+					"patching_rect" : [ 10.954402267932892, 338.311185717582703, 171.353871822357178, 22.0 ],
 					"saved_object_attributes" : 					{
 						"parameter_enable" : 0,
 						"parameter_mappable" : 0
 					}
 ,
-					"text" : "nls.cross_seq2~"
+					"text" : "nls.cross_seq2~ @freq 1"
 				}
 
 			}
@@ -2552,7 +2552,7 @@
 ,
 		"dependency_cache" : [ 			{
 				"name" : "cross2_help.json",
-				"bootpath" : "~/OneDrive/Documents/GitHub/NonlinearSequencer/docs",
+				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/NonlinearSequencer/docs",
 				"patcherrelativepath" : "../docs",
 				"type" : "JSON",
 				"implicit" : 1
@@ -2563,7 +2563,7 @@
 			}
 , 			{
 				"name" : "nls.cross_seq2BP~.maxpat",
-				"bootpath" : "~/OneDrive/Documents/GitHub/NonlinearSequencer/externals",
+				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/NonlinearSequencer/externals",
 				"patcherrelativepath" : "../externals",
 				"type" : "JSON",
 				"implicit" : 1
@@ -2574,7 +2574,7 @@
 			}
 , 			{
 				"name" : "patreon_launch.maxpat",
-				"bootpath" : "~/OneDrive/Documents/GitHub/NonlinearSequencer/externals",
+				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/NonlinearSequencer/externals",
 				"patcherrelativepath" : "../externals",
 				"type" : "JSON",
 				"implicit" : 1
