@@ -5,7 +5,7 @@ Use the Example Navigator to understand NLS step by step.
  
 Feel free to reach out to me for any comment, bug report suggestions and [cash donations](https://www.patreon.com/user?u=6022250&fan_landing=true).
 If you end up doing sometyhing with this, please let me know!
-NLS - Nonlinear Sequencer 2.0 
+
 ## General Description
 - NLS is a package rhythmic-generation tools
 - NLS uses a master tempo and creates patterns around it, in a non-linear fashion
