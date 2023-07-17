@@ -47,10 +47,16 @@ NLS - Nonlinear Sequencer 2.0
 - LFOs: can also be used as logic parameters to exclude triggers 
 
 # Objects (Max8)
-- Core objects 
+- Core objects
+- nls.fluctuate_phasor~ → sequencer tempo oscillations 
+- nls.running_scale~ → adaptive scaling of signal
+- nls.distance _from_pulse~ → measure distance from regular pulse in nls.fluctuate_phasor~
 * nls.cross_seq2~ → two LFOs
 * nls.cross_seq3~ → three LFOs
 - Ancillary objects
 * nls.trigger_logic~ → parse triggers based on CV 
 * nls.ar~ → convert triggers to (exponential) envelopes
+* nls.trigger_counter~ → count triggers
+* nls.regular_triggers~ → audio buffer of triggers equally spaced
+
 
