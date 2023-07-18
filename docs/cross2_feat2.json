@@ -16,8 +16,6 @@
 					"nls.cross_seq2BP~::amount1" : [ 0.31 ],
 					"nls.cross_seq2BP~::amount2" : [ 0.38 ],
 					"nls.cross_seq2BP~::button" : [ 0.0 ],
-					"nls.cross_seq2BP~::live.button" : [ 0.0 ],
-					"nls.cross_seq2BP~::live.button[1]" : [ 0.0 ],
 					"nls.cross_seq2BP~::mainFreq" : [ 2.0 ],
 					"nls.cross_seq2BP~::nls.cross_seq2~" : [ 						{
 							"pw2" : 							{
@@ -68,18 +66,18 @@
 						}
  ],
 					"nls.cross_seq2BP~::phase1" : [ 0.0 ],
+					"nls.cross_seq2BP~::phase1[1]" : [ 0.0 ],
 					"nls.cross_seq2BP~::phase2" : [ 0.0 ],
+					"nls.cross_seq2BP~::phase2[1]" : [ 0.0 ],
 					"nls.cross_seq2BP~::pw1" : [ 0.5 ],
 					"nls.cross_seq2BP~::pw2" : [ 0.5 ],
 					"nls.cross_seq2BP~::rate1" : [ 1.0 ],
 					"nls.cross_seq2BP~::rate2" : [ 2.0 ],
-					"nls.cross_seq2BP~::type1" : [ 3.0 ],
-					"nls.cross_seq2BP~::type2" : [ 3.0 ],
-					"nls.trigger_logicBP::live.button" : [ 1.0 ],
+					"nls.trigger_logicBP::live.button" : [ 0.0 ],
 					"nls.trigger_logicBP::live.menu[10]" : [ 0.0 ],
 					"nls.trigger_logicBP::live.menu[5]" : [ 1.0 ],
 					"nls.trigger_logicBP::live.menu[6]" : [ 1.0 ],
-					"nls.trigger_logicBP::live.menu[7]" : [ 0.0 ],
+					"nls.trigger_logicBP::live.menu[7]" : [ 1.0 ],
 					"nls.trigger_logicBP::live.toggle" : [ 0.0 ],
 					"nls.trigger_logicBP::live.toggle[1]" : [ 0.0 ],
 					"nls.trigger_logicBP::live.toggle[2]" : [ 0.0 ],
@@ -123,10 +121,8 @@
  ],
 					"number" : [ 200 ],
 					"nls.cross_seq2BP~::amount1" : [ 1.0 ],
-					"nls.cross_seq2BP~::amount2" : [ 0.29 ],
+					"nls.cross_seq2BP~::amount2" : [ 0.7 ],
 					"nls.cross_seq2BP~::button" : [ 0.0 ],
-					"nls.cross_seq2BP~::live.button" : [ 0.0 ],
-					"nls.cross_seq2BP~::live.button[1]" : [ 0.0 ],
 					"nls.cross_seq2BP~::mainFreq" : [ 2.0 ],
 					"nls.cross_seq2BP~::nls.cross_seq2~" : [ 						{
 							"pw2" : 							{
@@ -177,17 +173,17 @@
 						}
  ],
 					"nls.cross_seq2BP~::phase1" : [ 0.0 ],
+					"nls.cross_seq2BP~::phase1[1]" : [ 1.0 ],
 					"nls.cross_seq2BP~::phase2" : [ 0.0 ],
+					"nls.cross_seq2BP~::phase2[1]" : [ 0.0 ],
 					"nls.cross_seq2BP~::pw1" : [ 0.5 ],
 					"nls.cross_seq2BP~::pw2" : [ 0.5 ],
 					"nls.cross_seq2BP~::rate1" : [ 1.0 ],
 					"nls.cross_seq2BP~::rate2" : [ 2.0 ],
-					"nls.cross_seq2BP~::type1" : [ 3.0 ],
-					"nls.cross_seq2BP~::type2" : [ 1.0 ],
 					"nls.trigger_logicBP::live.button" : [ 1.0 ],
 					"nls.trigger_logicBP::live.menu[10]" : [ 0.0 ],
-					"nls.trigger_logicBP::live.menu[5]" : [ 1.0 ],
-					"nls.trigger_logicBP::live.menu[6]" : [ 0.0 ],
+					"nls.trigger_logicBP::live.menu[5]" : [ 0.0 ],
+					"nls.trigger_logicBP::live.menu[6]" : [ 1.0 ],
 					"nls.trigger_logicBP::live.menu[7]" : [ 0.0 ],
 					"nls.trigger_logicBP::live.toggle" : [ 0.0 ],
 					"nls.trigger_logicBP::live.toggle[1]" : [ 0.0 ],
@@ -223,7 +219,7 @@
 			"3" : 			{
 				"id" : 3,
 				"data" : 				{
-					"button" : [  ],
+					"button" : [ 0.0 ],
 					"live.gain~" : [ -14.048450703839521 ],
 					"matrixctrl" : [ 0, 2, 1.0, 1, 1, 1.0, 2, 0, 1.0 ],
 					"nls.ar~" : [ 						{
@@ -234,8 +230,6 @@
 					"nls.cross_seq2BP~::amount1" : [ 0.464573909722893 ],
 					"nls.cross_seq2BP~::amount2" : [ 0.774307114593001 ],
 					"nls.cross_seq2BP~::button" : [ 0.0 ],
-					"nls.cross_seq2BP~::live.button" : [ 0.0 ],
-					"nls.cross_seq2BP~::live.button[1]" : [ 0.0 ],
 					"nls.cross_seq2BP~::mainFreq" : [ 1.0 ],
 					"nls.cross_seq2BP~::nls.cross_seq2~" : [ 						{
 							"pw2" : 							{
@@ -286,13 +280,13 @@
 						}
  ],
 					"nls.cross_seq2BP~::phase1" : [ 0.0 ],
+					"nls.cross_seq2BP~::phase1[1]" : [ 1.0 ],
 					"nls.cross_seq2BP~::phase2" : [ 0.0 ],
+					"nls.cross_seq2BP~::phase2[1]" : [ 0.0 ],
 					"nls.cross_seq2BP~::pw1" : [ 0.283137186862079 ],
 					"nls.cross_seq2BP~::pw2" : [ 0.5 ],
 					"nls.cross_seq2BP~::rate1" : [ 1.0 ],
 					"nls.cross_seq2BP~::rate2" : [ 2.0 ],
-					"nls.cross_seq2BP~::type1" : [ 0.0 ],
-					"nls.cross_seq2BP~::type2" : [ 0.0 ],
 					"nls.trigger_logicBP::live.button" : [ 0.0 ],
 					"nls.trigger_logicBP::live.menu[10]" : [ 0.0 ],
 					"nls.trigger_logicBP::live.menu[5]" : [ 0.0 ],
@@ -332,7 +326,7 @@
 			"4" : 			{
 				"id" : 4,
 				"data" : 				{
-					"button" : [  ],
+					"button" : [ 0.0 ],
 					"live.gain~" : [ -14.048450703839521 ],
 					"matrixctrl" : [ 0, 2, 1.0, 1, 1, 1.0, 2, 0, 1.0 ],
 					"nls.ar~" : [ 						{
@@ -343,8 +337,6 @@
 					"nls.cross_seq2BP~::amount1" : [ 0.878052469902252 ],
 					"nls.cross_seq2BP~::amount2" : [ 1.0 ],
 					"nls.cross_seq2BP~::button" : [ 0.0 ],
-					"nls.cross_seq2BP~::live.button" : [ 0.0 ],
-					"nls.cross_seq2BP~::live.button[1]" : [ 0.0 ],
 					"nls.cross_seq2BP~::mainFreq" : [ 1.0 ],
 					"nls.cross_seq2BP~::nls.cross_seq2~" : [ 						{
 							"pw2" : 							{
@@ -395,22 +387,45 @@
 						}
  ],
 					"nls.cross_seq2BP~::phase1" : [ 0.0 ],
+					"nls.cross_seq2BP~::phase1[1]" : [ 1.0 ],
 					"nls.cross_seq2BP~::phase2" : [ 0.0 ],
+					"nls.cross_seq2BP~::phase2[1]" : [ 2.0 ],
 					"nls.cross_seq2BP~::pw1" : [ 0.295853031530591 ],
 					"nls.cross_seq2BP~::pw2" : [ 0.5 ],
-					"nls.cross_seq2BP~::rate1" : [ 1.0 ],
+					"nls.cross_seq2BP~::rate1" : [ 0.2565 ],
 					"nls.cross_seq2BP~::rate2" : [ 2.0 ],
-					"nls.cross_seq2BP~::type1" : [ 3.0 ],
-					"nls.cross_seq2BP~::type2" : [ 1.0 ],
-					"nls.trigger_logicBP::live.button" : [  ],
-					"nls.trigger_logicBP::live.menu[10]" : [  ],
-					"nls.trigger_logicBP::live.menu[5]" : [  ],
-					"nls.trigger_logicBP::live.menu[6]" : [  ],
-					"nls.trigger_logicBP::live.menu[7]" : [  ],
-					"nls.trigger_logicBP::live.toggle" : [  ],
-					"nls.trigger_logicBP::live.toggle[1]" : [  ],
-					"nls.trigger_logicBP::live.toggle[2]" : [  ],
-					"nls.trigger_logicBP::nls.trigger_logic~" : [  ]
+					"nls.trigger_logicBP::live.button" : [ 1.0 ],
+					"nls.trigger_logicBP::live.menu[10]" : [ 0.0 ],
+					"nls.trigger_logicBP::live.menu[5]" : [ 0.0 ],
+					"nls.trigger_logicBP::live.menu[6]" : [ 0.0 ],
+					"nls.trigger_logicBP::live.menu[7]" : [ 0.0 ],
+					"nls.trigger_logicBP::live.toggle" : [ 0.0 ],
+					"nls.trigger_logicBP::live.toggle[1]" : [ 0.0 ],
+					"nls.trigger_logicBP::live.toggle[2]" : [ 0.0 ],
+					"nls.trigger_logicBP::nls.trigger_logic~" : [ 						{
+							"typ" : 							{
+								"value" : 0.0
+							}
+,
+							"ck1" : 							{
+								"value" : 0.0
+							}
+,
+							"ck2" : 							{
+								"value" : 0.0
+							}
+,
+							"op" : 							{
+								"value" : 0.0
+							}
+,
+							"invert" : 							{
+								"value" : 0.0
+							}
+,
+							"__presetid" : "rnbo"
+						}
+ ]
 				}
 
 			}
@@ -429,8 +444,6 @@
 					"nls.cross_seq2BP~::amount1" : [ 0.044930241294712 ],
 					"nls.cross_seq2BP~::amount2" : [ 0.29 ],
 					"nls.cross_seq2BP~::button" : [ 0.0 ],
-					"nls.cross_seq2BP~::live.button" : [ 0.0 ],
-					"nls.cross_seq2BP~::live.button[1]" : [ 0.0 ],
 					"nls.cross_seq2BP~::mainFreq" : [ 2.0 ],
 					"nls.cross_seq2BP~::nls.cross_seq2~" : [ 						{
 							"pw2" : 							{
@@ -481,13 +494,13 @@
 						}
  ],
 					"nls.cross_seq2BP~::phase1" : [ 0.0 ],
+					"nls.cross_seq2BP~::phase1[1]" : [  ],
 					"nls.cross_seq2BP~::phase2" : [ 0.0 ],
+					"nls.cross_seq2BP~::phase2[1]" : [  ],
 					"nls.cross_seq2BP~::pw1" : [ 0.963712133294429 ],
 					"nls.cross_seq2BP~::pw2" : [ 0.5 ],
 					"nls.cross_seq2BP~::rate1" : [ 1.0 ],
 					"nls.cross_seq2BP~::rate2" : [ 2.0 ],
-					"nls.cross_seq2BP~::type1" : [ 3.0 ],
-					"nls.cross_seq2BP~::type2" : [ 3.0 ],
 					"nls.trigger_logicBP::live.button" : [  ],
 					"nls.trigger_logicBP::live.menu[10]" : [  ],
 					"nls.trigger_logicBP::live.menu[5]" : [  ],
@@ -515,8 +528,6 @@
 					"nls.cross_seq2BP~::amount1" : [ 0.31 ],
 					"nls.cross_seq2BP~::amount2" : [ 0.38 ],
 					"nls.cross_seq2BP~::button" : [ 0.0 ],
-					"nls.cross_seq2BP~::live.button" : [ 0.0 ],
-					"nls.cross_seq2BP~::live.button[1]" : [ 0.0 ],
 					"nls.cross_seq2BP~::mainFreq" : [ 2.0 ],
 					"nls.cross_seq2BP~::nls.cross_seq2~" : [ 						{
 							"pw2" : 							{
@@ -567,13 +578,13 @@
 						}
  ],
 					"nls.cross_seq2BP~::phase1" : [ 0.0 ],
+					"nls.cross_seq2BP~::phase1[1]" : [  ],
 					"nls.cross_seq2BP~::phase2" : [ 0.0 ],
+					"nls.cross_seq2BP~::phase2[1]" : [  ],
 					"nls.cross_seq2BP~::pw1" : [ 0.5 ],
 					"nls.cross_seq2BP~::pw2" : [ 0.5 ],
 					"nls.cross_seq2BP~::rate1" : [ 1.0 ],
 					"nls.cross_seq2BP~::rate2" : [ 2.0 ],
-					"nls.cross_seq2BP~::type1" : [ 3.0 ],
-					"nls.cross_seq2BP~::type2" : [ 3.0 ],
 					"nls.trigger_logicBP::live.button" : [ 0.0 ],
 					"nls.trigger_logicBP::live.menu[10]" : [ 0.0 ],
 					"nls.trigger_logicBP::live.menu[5]" : [ 1.0 ],
@@ -624,8 +635,6 @@
 					"nls.cross_seq2BP~::amount1" : [ 0.008609328625696 ],
 					"nls.cross_seq2BP~::amount2" : [ 0.29 ],
 					"nls.cross_seq2BP~::button" : [ 0.0 ],
-					"nls.cross_seq2BP~::live.button" : [ 0.0 ],
-					"nls.cross_seq2BP~::live.button[1]" : [ 0.0 ],
 					"nls.cross_seq2BP~::mainFreq" : [ 2.0 ],
 					"nls.cross_seq2BP~::nls.cross_seq2~" : [ 						{
 							"pw2" : 							{
@@ -676,13 +685,13 @@
 						}
  ],
 					"nls.cross_seq2BP~::phase1" : [ 0.0 ],
+					"nls.cross_seq2BP~::phase1[1]" : [  ],
 					"nls.cross_seq2BP~::phase2" : [ 0.0 ],
+					"nls.cross_seq2BP~::phase2[1]" : [  ],
 					"nls.cross_seq2BP~::pw1" : [ 0.011421354115403 ],
 					"nls.cross_seq2BP~::pw2" : [ 0.5 ],
 					"nls.cross_seq2BP~::rate1" : [ 1.0 ],
 					"nls.cross_seq2BP~::rate2" : [ 2.0 ],
-					"nls.cross_seq2BP~::type1" : [ 1.0 ],
-					"nls.cross_seq2BP~::type2" : [ 0.0 ],
 					"nls.trigger_logicBP::live.button" : [ 1.0 ],
 					"nls.trigger_logicBP::live.menu[10]" : [ 0.0 ],
 					"nls.trigger_logicBP::live.menu[5]" : [ 0.0 ],
@@ -733,8 +742,6 @@
 					"nls.cross_seq2BP~::amount1" : [ 0.31 ],
 					"nls.cross_seq2BP~::amount2" : [ 0.38 ],
 					"nls.cross_seq2BP~::button" : [ 0.0 ],
-					"nls.cross_seq2BP~::live.button" : [ 0.0 ],
-					"nls.cross_seq2BP~::live.button[1]" : [ 0.0 ],
 					"nls.cross_seq2BP~::mainFreq" : [ 2.0 ],
 					"nls.cross_seq2BP~::nls.cross_seq2~" : [ 						{
 							"pw2" : 							{
@@ -785,13 +792,13 @@
 						}
  ],
 					"nls.cross_seq2BP~::phase1" : [ 0.0 ],
+					"nls.cross_seq2BP~::phase1[1]" : [  ],
 					"nls.cross_seq2BP~::phase2" : [ 0.0 ],
+					"nls.cross_seq2BP~::phase2[1]" : [  ],
 					"nls.cross_seq2BP~::pw1" : [ 0.5 ],
 					"nls.cross_seq2BP~::pw2" : [ 0.5 ],
 					"nls.cross_seq2BP~::rate1" : [ 1.0 ],
 					"nls.cross_seq2BP~::rate2" : [ 2.0 ],
-					"nls.cross_seq2BP~::type1" : [ 3.0 ],
-					"nls.cross_seq2BP~::type2" : [ 3.0 ],
 					"nls.trigger_logicBP::live.button" : [ 1.0 ],
 					"nls.trigger_logicBP::live.menu[10]" : [ 0.0 ],
 					"nls.trigger_logicBP::live.menu[5]" : [ 1.0 ],
@@ -842,8 +849,6 @@
 					"nls.cross_seq2BP~::amount1" : [ 0.8 ],
 					"nls.cross_seq2BP~::amount2" : [ 0.379 ],
 					"nls.cross_seq2BP~::button" : [ 0.0 ],
-					"nls.cross_seq2BP~::live.button" : [ 0.0 ],
-					"nls.cross_seq2BP~::live.button[1]" : [ 0.0 ],
 					"nls.cross_seq2BP~::mainFreq" : [ 2.0 ],
 					"nls.cross_seq2BP~::nls.cross_seq2~" : [ 						{
 							"pw2" : 							{
@@ -894,13 +899,13 @@
 						}
  ],
 					"nls.cross_seq2BP~::phase1" : [ 0.0 ],
+					"nls.cross_seq2BP~::phase1[1]" : [  ],
 					"nls.cross_seq2BP~::phase2" : [ 0.0 ],
+					"nls.cross_seq2BP~::phase2[1]" : [  ],
 					"nls.cross_seq2BP~::pw1" : [ 0.5 ],
 					"nls.cross_seq2BP~::pw2" : [ 0.5 ],
 					"nls.cross_seq2BP~::rate1" : [ 1.0 ],
 					"nls.cross_seq2BP~::rate2" : [ 1.7 ],
-					"nls.cross_seq2BP~::type1" : [ 0.0 ],
-					"nls.cross_seq2BP~::type2" : [ 1.0 ],
 					"nls.trigger_logicBP::live.button" : [ 0.0 ],
 					"nls.trigger_logicBP::live.menu[10]" : [ 0.0 ],
 					"nls.trigger_logicBP::live.menu[5]" : [ 1.0 ],

@@ -5,6 +5,7 @@
 			"1" : 			{
 				"id" : 1,
 				"data" : 				{
+					"button" : [ 0.0 ],
 					"mc.live.gain~" : [ 0.0 ],
 					"number" : [ 200 ],
 					"crossSeq3~[1]::ampl1" : [ 1.0 ],
@@ -14,9 +15,6 @@
 					"crossSeq3~[1]::lfo1rate" : [ 1.0 ],
 					"crossSeq3~[1]::lfo2rate" : [ 2.0 ],
 					"crossSeq3~[1]::lfo3rate" : [ 1.5 ],
-					"crossSeq3~[1]::live.button" : [ 0.0 ],
-					"crossSeq3~[1]::live.button[1]" : [ 0.0 ],
-					"crossSeq3~[1]::live.button[2]" : [ 0.0 ],
 					"crossSeq3~[1]::live.menu[3]" : [ 0.0 ],
 					"crossSeq3~[1]::mainFreq" : [ 2.0 ],
 					"crossSeq3~[1]::nls.cross_seq3~" : [ 						{
@@ -88,14 +86,14 @@
 						}
  ],
 					"crossSeq3~[1]::phase1" : [ 0.0 ],
+					"crossSeq3~[1]::phase1[1]" : [ 1.889763779527561 ],
 					"crossSeq3~[1]::phase2" : [ 0.0 ],
+					"crossSeq3~[1]::phase2[1]" : [ 2.37795275590551 ],
 					"crossSeq3~[1]::phase3" : [ 0.0 ],
+					"crossSeq3~[1]::phase3[1]" : [ 1.0 ],
 					"crossSeq3~[1]::pw1" : [ 0.5 ],
 					"crossSeq3~[1]::pw2" : [ 0.5 ],
-					"crossSeq3~[1]::pw3" : [ 0.5 ],
-					"crossSeq3~[1]::wave1" : [ 3.0 ],
-					"crossSeq3~[1]::wave2" : [ 0.0 ],
-					"crossSeq3~[1]::wave3" : [ 0.0 ]
+					"crossSeq3~[1]::pw3" : [ 0.5 ]
 				}
 
 			}
@@ -103,6 +101,7 @@
 			"2" : 			{
 				"id" : 2,
 				"data" : 				{
+					"button" : [ 0.0 ],
 					"mc.live.gain~" : [ 0.0 ],
 					"number" : [ 200 ],
 					"crossSeq3~[1]::ampl1" : [ 1.0 ],
@@ -112,9 +111,6 @@
 					"crossSeq3~[1]::lfo1rate" : [ 1.0 ],
 					"crossSeq3~[1]::lfo2rate" : [ 1.7 ],
 					"crossSeq3~[1]::lfo3rate" : [ 1.5 ],
-					"crossSeq3~[1]::live.button" : [ 0.0 ],
-					"crossSeq3~[1]::live.button[1]" : [ 0.0 ],
-					"crossSeq3~[1]::live.button[2]" : [ 0.0 ],
 					"crossSeq3~[1]::live.menu[3]" : [ 0.0 ],
 					"crossSeq3~[1]::mainFreq" : [ 2.0 ],
 					"crossSeq3~[1]::nls.cross_seq3~" : [ 						{
@@ -186,14 +182,14 @@
 						}
  ],
 					"crossSeq3~[1]::phase1" : [ 0.0 ],
+					"crossSeq3~[1]::phase1[1]" : [ 2.433070866141733 ],
 					"crossSeq3~[1]::phase2" : [ 0.0 ],
+					"crossSeq3~[1]::phase2[1]" : [ 0.629921259842521 ],
 					"crossSeq3~[1]::phase3" : [ 0.0 ],
+					"crossSeq3~[1]::phase3[1]" : [ 2.370078740157478 ],
 					"crossSeq3~[1]::pw1" : [ 0.5 ],
 					"crossSeq3~[1]::pw2" : [ 0.5 ],
-					"crossSeq3~[1]::pw3" : [ 0.5 ],
-					"crossSeq3~[1]::wave1" : [ 3.0 ],
-					"crossSeq3~[1]::wave2" : [ 0.0 ],
-					"crossSeq3~[1]::wave3" : [ 0.0 ]
+					"crossSeq3~[1]::pw3" : [ 0.5 ]
 				}
 
 			}
@@ -201,18 +197,16 @@
 			"3" : 			{
 				"id" : 3,
 				"data" : 				{
+					"button" : [ 0.0 ],
 					"mc.live.gain~" : [ 0.0 ],
 					"number" : [ 200 ],
 					"crossSeq3~[1]::ampl1" : [ 1.0 ],
-					"crossSeq3~[1]::ampl2" : [ 0.29 ],
+					"crossSeq3~[1]::ampl2" : [ 0.41 ],
 					"crossSeq3~[1]::ampl3" : [ 0.45 ],
 					"crossSeq3~[1]::button" : [ 0.0 ],
 					"crossSeq3~[1]::lfo1rate" : [ 1.0 ],
-					"crossSeq3~[1]::lfo2rate" : [ 2.0 ],
+					"crossSeq3~[1]::lfo2rate" : [ 1.7 ],
 					"crossSeq3~[1]::lfo3rate" : [ 1.5 ],
-					"crossSeq3~[1]::live.button" : [ 0.0 ],
-					"crossSeq3~[1]::live.button[1]" : [ 0.0 ],
-					"crossSeq3~[1]::live.button[2]" : [ 0.0 ],
 					"crossSeq3~[1]::live.menu[3]" : [ 0.0 ],
 					"crossSeq3~[1]::mainFreq" : [ 2.0 ],
 					"crossSeq3~[1]::nls.cross_seq3~" : [ 						{
@@ -284,14 +278,14 @@
 						}
  ],
 					"crossSeq3~[1]::phase1" : [ 0.0 ],
+					"crossSeq3~[1]::phase1[1]" : [ 2.433070866141733 ],
 					"crossSeq3~[1]::phase2" : [ 0.0 ],
+					"crossSeq3~[1]::phase2[1]" : [ 0.629921259842521 ],
 					"crossSeq3~[1]::phase3" : [ 0.0 ],
+					"crossSeq3~[1]::phase3[1]" : [ 2.370078740157478 ],
 					"crossSeq3~[1]::pw1" : [ 0.5 ],
 					"crossSeq3~[1]::pw2" : [ 0.5 ],
-					"crossSeq3~[1]::pw3" : [ 0.5 ],
-					"crossSeq3~[1]::wave1" : [ 0.0 ],
-					"crossSeq3~[1]::wave2" : [ 0.0 ],
-					"crossSeq3~[1]::wave3" : [ 0.0 ]
+					"crossSeq3~[1]::pw3" : [ 0.5 ]
 				}
 
 			}
@@ -299,6 +293,7 @@
 			"4" : 			{
 				"id" : 4,
 				"data" : 				{
+					"button" : [ 0.0 ],
 					"mc.live.gain~" : [ 0.0 ],
 					"number" : [ 168 ],
 					"crossSeq3~[1]::ampl1" : [ 1.0 ],
@@ -308,9 +303,6 @@
 					"crossSeq3~[1]::lfo1rate" : [ 1.0 ],
 					"crossSeq3~[1]::lfo2rate" : [ 1.7 ],
 					"crossSeq3~[1]::lfo3rate" : [ 1.5 ],
-					"crossSeq3~[1]::live.button" : [ 0.0 ],
-					"crossSeq3~[1]::live.button[1]" : [ 0.0 ],
-					"crossSeq3~[1]::live.button[2]" : [ 0.0 ],
 					"crossSeq3~[1]::live.menu[3]" : [ 0.0 ],
 					"crossSeq3~[1]::mainFreq" : [ 2.0 ],
 					"crossSeq3~[1]::nls.cross_seq3~" : [ 						{
@@ -382,14 +374,14 @@
 						}
  ],
 					"crossSeq3~[1]::phase1" : [ 0.0 ],
+					"crossSeq3~[1]::phase1[1]" : [ 1.0 ],
 					"crossSeq3~[1]::phase2" : [ 0.0 ],
+					"crossSeq3~[1]::phase2[1]" : [ 2.0 ],
 					"crossSeq3~[1]::phase3" : [ 0.0 ],
+					"crossSeq3~[1]::phase3[1]" : [ 2.0 ],
 					"crossSeq3~[1]::pw1" : [ 0.5 ],
 					"crossSeq3~[1]::pw2" : [ 0.5 ],
-					"crossSeq3~[1]::pw3" : [ 0.5 ],
-					"crossSeq3~[1]::wave1" : [ 0.0 ],
-					"crossSeq3~[1]::wave2" : [ 1.0 ],
-					"crossSeq3~[1]::wave3" : [ 0.0 ]
+					"crossSeq3~[1]::pw3" : [ 0.5 ]
 				}
 
 			}
@@ -397,7 +389,8 @@
 			"5" : 			{
 				"id" : 5,
 				"data" : 				{
-					"mc.live.gain~" : [ 0.0 ],
+					"button" : [ 0.0 ],
+					"mc.live.gain~" : [ -11.728884540383362 ],
 					"number" : [ 168 ],
 					"crossSeq3~[1]::ampl1" : [ 1.0 ],
 					"crossSeq3~[1]::ampl2" : [ 0.29 ],
@@ -406,9 +399,6 @@
 					"crossSeq3~[1]::lfo1rate" : [ 1.0 ],
 					"crossSeq3~[1]::lfo2rate" : [ 2.0 ],
 					"crossSeq3~[1]::lfo3rate" : [ 1.5 ],
-					"crossSeq3~[1]::live.button" : [ 0.0 ],
-					"crossSeq3~[1]::live.button[1]" : [ 0.0 ],
-					"crossSeq3~[1]::live.button[2]" : [ 0.0 ],
 					"crossSeq3~[1]::live.menu[3]" : [ 0.0 ],
 					"crossSeq3~[1]::mainFreq" : [ 2.0 ],
 					"crossSeq3~[1]::nls.cross_seq3~" : [ 						{
@@ -426,7 +416,7 @@
 							}
 ,
 							"w3" : 							{
-								"value" : 3.0
+								"value" : 0.0
 							}
 ,
 							"pw1" : 							{
@@ -434,7 +424,7 @@
 							}
 ,
 							"w2" : 							{
-								"value" : 3.0
+								"value" : 0.0
 							}
 ,
 							"freq" : 							{
@@ -462,7 +452,7 @@
 							}
 ,
 							"w1" : 							{
-								"value" : 3.0
+								"value" : 0.0
 							}
 ,
 							"ph2" : 							{
@@ -480,14 +470,14 @@
 						}
  ],
 					"crossSeq3~[1]::phase1" : [ 0.0 ],
+					"crossSeq3~[1]::phase1[1]" : [ 3.0 ],
 					"crossSeq3~[1]::phase2" : [ 0.0 ],
+					"crossSeq3~[1]::phase2[1]" : [ 2.0 ],
 					"crossSeq3~[1]::phase3" : [ 0.0 ],
+					"crossSeq3~[1]::phase3[1]" : [ 1.0 ],
 					"crossSeq3~[1]::pw1" : [ 0.5 ],
 					"crossSeq3~[1]::pw2" : [ 0.5 ],
-					"crossSeq3~[1]::pw3" : [ 0.5 ],
-					"crossSeq3~[1]::wave1" : [ 3.0 ],
-					"crossSeq3~[1]::wave2" : [ 0.0 ],
-					"crossSeq3~[1]::wave3" : [ 1.0 ]
+					"crossSeq3~[1]::pw3" : [ 0.5 ]
 				}
 
 			}

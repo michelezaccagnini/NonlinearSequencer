@@ -4,7 +4,7 @@
 		"appversion" : 		{
 			"major" : 8,
 			"minor" : 5,
-			"revision" : 4,
+			"revision" : 5,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
@@ -216,7 +216,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 5,
 					"outlettype" : [ "preset", "int", "preset", "int", "" ],
-					"patching_rect" : [ 185.102941274643001, 141.0, 100.0, 40.0 ],
+					"patching_rect" : [ 185.102941274643001, 141.0, 74.0, 25.0 ],
 					"preset_data" : [ 						{
 							"number" : 1,
 							"data" : [ 5, "obj-16", "number", "int", 73, 5, "obj-17", "slider", "float", 0.250454008579254, 5, "obj-5", "number", "int", 200 ]
@@ -392,7 +392,7 @@
 			}
 , 			{
 				"name" : "patreon_launch.maxpat",
-				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/Nonlinear Sequencer2.0/externals",
+				"bootpath" : "~/OneDrive/Documents/Max 8/Packages/NonlinearSequencer/externals",
 				"patcherrelativepath" : "../externals",
 				"type" : "JSON",
 				"implicit" : 1
